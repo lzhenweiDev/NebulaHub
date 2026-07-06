@@ -1,1 +1,573 @@
-return(function(...)local p={"!9p==","sAD.5!)\'V[?GoF","s\'H&gk$@>(MK2F&r","!1SxF6w8IVw8cwlXn","!R38hqT+oJ02reOv=","s+X\"Dq23q*s^/h823nTLqKRL0;^r\"X\"O*";"!ZFiIJ31D6p==";"sX0PY`m2d[f,%H,!A8";"!nIo8v8ahA3DC+G4kJT8be9RYA02hVT2EATeFJM/NvR==","sTUaJ.";"!2M2n+8U4JMDmJ3FDJmR=";"!AM/aWl1bwE1/WbFl1Y==","s)9l(7,\'-n^bObBQjP";"!e81owO14a9elgbRC","sSP","!eT8LeR==","!cMalwM8Be9C=","!2c1IJR==";"!e3/KJ0v=";"sbO30Vt(aZBG8Q0St1","s^Zqc*$qjPJ\'L&*<";"s3MV%a$fC&n3QqHI$]*WQ^LBr^>[IPnj)Z/d@cL!H)d-b)$Nb,qKnnrVKppO$KZOhN8Q2YF@b8^))\'8u_TU6<1G-E+`@aMI7OgQRX";"sAeIAjacinsb=dG@G`","!W04t1S+2wEDK9wa0VcY=";"!R38hqT+oJ02rep==";"!c32reM2oc01DAP4Dep==","!62aa2TkCcO8GVw2/","!cMiEqZ1IJTn=","st2u\'D,WY5","slqoEVaCF/V,IHnXt^F";"sT-+3u^5j";"s$qsMl^%";"stn:+Z^$+!#^R";"!w9iFAT28Jm1DAY==","!nIo8vSeK+9NbfBp=","s@g!-S\'$pB","!R38hqT+oJ02re81oV9NEAM8oe9Nh6R==","st2u\'D,%93P^LS";"sXNnSE3PA\"","st2u\'Db=dG@G`";"s^*NUqAAmF_8?]mn";"s2tRBV29P0#\"cc";"!138IJM2bvP1KvM/KV9RY+MUDvPahA3DC+GnuGb2oA3iofBp=","s^H+0";"!+M8EqC==","!1PUIAl+kAPxZ1b2E+C==","!c02B+MDlJMc=","sT\\;M*";"!R9NhqMiocMiIJmR=","!wS2DAlxb6h1mA84W";"s+X\"g)2@%`]@aSYg23t\'+jBj`a)\'Hi\"@aMI7OoVp";"!cTaoqZ4lvS2oA3io","!cTaoe92r102I","sA\'(,Z";"!c02hVT2EAC==";"s,X$@[";"s,RAJdA&O:";"sTU6<1G-Ej1$]*/TUjU%";"sTm!ADK2..+@+Z4W$Nb,qKnF_>)tlM;^LgDr2^S\"_l#s@5.\\h5";"!g9NE+M8rVTc=","!R3ioeM2ocTDte24I6M2k";"s,0X^b^5/3Z^-q";"st^>2(Aa(i:bK";"sAeIAj2@M\\&23FKBKSc*X@9C","s,X$+N3PBV","sA1l8(";"s,[Y<c@c)";"!nIo8v8DDAoCYJMiUeG4I+p==";"s\'E;,\"@>","s\'E]\"o","sAd<%I2@M\\ZGo6\\[2)c_FO8H>I@aM,e@>";"!2cDOJ0xreZv=";"!29NI+32oAT8kvS8bJ9Dr","!cTUUeMi0","!wMDre98o","sTU6<1G-LC1)5";"s^OJC","s)Q\'-7tSs:hG>SrS","s\'5RCu@c^&r)e[","!1M2E+PxK6R==";"!c02oe38hewv=";"s\\-Pf.Tm!ADK2..+@+Z4W$Nb,qKnF_A^LgDr";"s8H,","!gZaWJT8be9R=";"sAtlKEK1","!1T2lcPxKeP2h+SDre3X=";"!c02oe38heR==","!Xxschg4wVT8rJ3Dreo4PV9FDvSDSjBnr";"!w38l+ZxUJG4SqZaUA01DAB4w+ZxTqZeUJp==","s\'E``13PA\"";"s,IAbL,%93P^LrYkG\\XX","!cM/UVT2xep==","sab@D<Ae>*";"!2ll/+3879PUtWExmAlb=","sXG=98\'S:9[js]fQ$g";"!J2+K2EcCWb+FRhc0WMb=","s$4qOS)e7";"!2M2n+p==";"sj`6@%t28.@3\\O:jT3";"!nITW","sbM2K?GL0ed>0^J";"!RTikJ0vE";"sT/U";"!VbIb+lFWWmxS18DR","s[0.u3@uI=M3=M;7^L\"";"sAu]0H@9PYF^`\\CA)Tu5k^/XbFK*sRF2)8=c3PQ=UITV7u^L9P`","!JMiUePalA3DreC==";"s%#Hdk^%";"s\'ZI","sA1:YV@>";"!XxswIgp=";"!","s\'E;\\]Knq";"!29NQJ3i0JB4PV9FD";"!1M2EV0xIAP1IJTn=","s,R,h6@9L-D^/N9VO*","sab@D<\'Eb7<3CN`";"s\\-Pf.TUkc6K*f.r@S";"s+X\"gi2)3-9)Df(D3nT!+$G@1E$N>&dO*","s+X\"Rl2@\"%Pt^QkIa,BW";"!2T8I+p==","s,[u9Z2)]3g3P+G";"!R9ahe9Nl","st2u\'D\'E;,\"@9C","st2u\'D\'E]\"o";"!13/IJ3AYAM/U692oAoCYVTir+PxKJG4CVZxlAoCYA3Dreo4CVZxlAC==","!c01U+P2EwM8Be9C=";"st2u\'DXqe!-K2.\"";"st2u\'D,R,(RKk(";"!gP2BvPVEjhpYyG4fe9xFJMS=";"!wM23+p==","sAa<fF\'5I@!$0@j03PrtW$Xk\"\"^pV[c^7";"s+X\"4^2b";"sAD.5!)\'\"";"sATGA=^/q)=KZOpi3P)C";"s%#Hju";"!9MLM+SIUw84Ew8D0+C==";"s$^Q,f";"s[0.u3@u0";"!232h+MioWY==","!nIo8v82rqZeDAmaUJG44eMFIJB4kJT8be9RU","s,W;Wj@c)","sbPjOe@\"%R^jBG";"!wMiUeM2b","stGG\"tUi";"s,R,h6@9LL","s\'L*o9@_8&5\'psA(","sAe>()@c^&r)e[";"sATGA=^/q<\\>frI";"sb\"E5h>0dGom2m!23:V";"s,RMp>$GZ","!qP1lAPWtjoimqZ1H+9vrVTiLjT/tqM2r+T2I1M2Tj0xBJPYLATaoqZ4lAoioVZAKA323AoiHe98bAoiLV9DrjlNIeTUlgP2BR3/K6Meo+9DlAoNk+98F","sU?1-_>XEY=@c;+`","!2P+De9NweZxTq9aD";"s$^PQ3KZcKN";"!RT/IAPaSeZahe9NbV9NlAC==","!6ZbFg2e/2E4NcMI0gY==","s,RAJ!@cG61@anUn","!13DreG4MAm2I+GCYcT2o+32oqMiCjG4Ze9xHJTiQ","!R38hqT+oJ02reSaKJMioWC==";"s,sUr1@c)";"!w9iFAT2G+Z1lJTn/RT/IVTk=","!g9N7+ZR=";"!qP1lAPWtjoioVZAreTDlqP2B+ZaDA3aKJm1DJmRrVTiLjT/tqM2r+T2I1M2TjFahA3DC+PaW+9SKA323AoiHe98bAoiLV9DrjlNU+P2oV9/SqZaUA01DAbUUVTkrJP2U";"!R3ioeM2oRTikJ0vE","!wZ2oeM2ovSFNA01DAmbYWY==","!w98oqT2lAM/UVT2weZxTq9aD","s+X\"4^","sT\\;M*@c^o","s^rr=0","!AMaUJMC=";"!1M8reT2owMDmqPR=","sj)[ln","!GYIZJ02keG4NJ0cYJMDQeg4lJo4kJT8bvP1Heg42J3DTeZxEV9CYR91Lq9nYq9NE+M2UeOX=";"s3MV%a$fC&n3QqHI$]*WQ^LBr^>[IPnj)Z/d@cL!F)D*Ti$KbFu)t#@$@VnJT3=Wu!$0!3X3PQ97$4:fNK!uof$GL5tU2<3*)O";"s,[I";"s8MLL^aQ$^0\'5QLbAL"}local function h(h)return p[h-4658]end for h,N in ipairs({{1,177};{1;69};{70;177}})do while N[1]<N[2]do p[N[1]],p[N[2]],N[1],N[2]=p[N[2]],p[N[1]],N[1]+1,N[2]-1 end end do local h=table.insert local N=string.sub local T=string.len local M=math.floor local B={q=8,t=27,A=22,["\""]=47;["5"]=42,X=28;n=12;h=73,["<"]=76;["$"]=37,[")"]=31;[">"]=39;m=17;b=24,["."]=45;["^"]=35;["]"]=61,["="]=46,["*"]=66,["@"]=32,J=0,r=13,["+"]=77,p=64,D=81,Z=65,e=80;["`"]=60;M=48;["%"]=30,k=59,B=4,E=68,["3"]=33,S=11;s=56;_=19;V=50,G=34;["0"]=1;N=7,["\'"]=26,a=23,["/"]=41;o=71,g=78;["("]=67,l=18;c=51,W=83,O=14;f=2,T=25;U=16,R=57,L=69;I=3;[";"]=6;["!"]=62,["2"]=10,j=38;K=36;["8"]=15;["&"]=82,["7"]=84,F=9;["1"]=54;P=75,H=40;[","]=21;["?"]=43;["-"]=70,d=53,["6"]=58;i=5;u=52;Y=79;[":"]=44;["\\"]=72;["#"]=55,C=74,["["]=29,["4"]=63;Q=20,["9"]=49}local v={P=7;V=24,m=39;v=8,h=35;C=48;A=28,["5"]=42;u=10;Y=32;c=20;["7"]=15,f=14;W=12;["0"]=55;E=51,I=41,g=18,T=54,l=52,k=44,b=36,z=59;H=40,X=60;a=13;r=46;["+"]=29;["9"]=22,t=58;["4"]=1,K=47;s=62;p=0;["2"]=21,O=3;F=53,["6"]=30;J=27;e=25,x=9;q=26;y=31,N=57;i=61;U=33;d=63,D=37,["3"]=38;R=16,n=56;S=4;Z=23,j=11,w=19;o=50,Q=43,G=2;B=34,["1"]=17,M=6;["8"]=5;L=45;["/"]=49}local Q=table.concat local X=string.char local O=p local j=type for p=1,#O,1 do local w=O[p]if j(w)=="string"then local j=N(w,1,1)if j=="!"then w=N(w,2)local B=T(w)local j={}local Y=1 local y=0 local H=0 while Y<=B do local p=N(w,Y,Y)local T=v[p]if T then y=y+T*(64^((3-H)))H=H+1 if H==4 then H=0 local p=M(y/65536)local N=M((y%65536)/256)local T=y%256 h(j,X(p,N,T))y=0 end elseif p=="="then h(j,X(M(y/65536)))if Y>=B or N(w,Y+1,Y+1)~="="then h(j,X(M((y%65536)/256)))end break end Y=Y+1 end O[p]=Q(j)elseif j=="s"then w=N(w,2)local v=T(w)local j={}local Y=1 while Y<=v do local p=(v-Y)+1 local T=p>=5 and 5 or p local Q=0 local O=T>1 for p=0,4,1 do local h if p<T then local T=N(w,Y+p,Y+p)h=B[T]if not h then O=false break end else h=84 end Q=Q*85+h end if O then local p=M(Q/16777216)%256 local N=M(Q/65536)%256 local B=M(Q/256)%256 local v=Q%256 if T==5 then h(j,X(p,N,B,v))elseif T==4 then h(j,X(p,N,B))elseif T==3 then h(j,X(p,N))elseif T==2 then h(j,X(p))end end Y=Y+T end O[p]=Q(j)end end end end return(function(Q,X,T,M,p,v,B,O,i,Z,w,V,G,R,I,c,z,W,j,N,y,Y,H,x)I,i,R,x,z,c,H,y,j,O,V,G,Z,Y,N,W,w=function(p,h)local T=y(h)local M=function(...)return N(p,{...},h,T)end return M end,function(p,h)local T=y(h)local M=function(M,B)return N(p,{M;B},h,T)end return M end,function(p,h)local T=y(h)local M=function(M,B,v,Q)return N(p,{M;B,v;Q},h,T)end return M end,function(p,h)local T=y(h)local M=function(M,B,v)return N(p,{M;B,v},h,T)end return M end,function(p,h)local T=y(h)local M=function(M,B,v,Q,X)return N(p,{M,B,v;Q;X},h,T)end return M end,function(p,h)local T=y(h)local M=function()return N(p,{},h,T)end return M end,function(p)local h,N=1,p[1]while N do j[N],h=j[N]-1,1+h if j[N]==0 then j[N],O[N]=nil,nil end N=p[h]end end,function(p)for h=1,#p,1 do j[p[h]]=1+j[p[h]]end if M then local N=M(true)local T=v(N)T[h(4734)],T[h(4686)],T[h(4835)]=p,H,function()return 2355871 end return N else return B({},{[h(4686)]=H,[h(4734)]=p;[h(4835)]=function()return 2355871 end})end end,{},{},function(p)j[p]=j[p]-1 if j[p]==0 then j[p],O[p]=nil,nil end end,function(p,h)local T=y(h)local M=function(M)return N(p,{M},h,T)end return M end,function(p,h)local T=y(h)local M=function(M,B,v,Q,X,O,j,w,Y)return N(p,{M,B,v;Q;X;O,j;w;Y},h,T)end return M end,0,function(N,M,B,v)local r,pq,A,H,e,Tq,t,Mq,g,D,X,P,K,Nq,vq,J,F,m,u,S,L,f,n,b,E,y,I,U,o,Y,a,hq,d,j,l,C,Bq,q,k,s,Qq while N do if N<9278836 then if N<4013747 then if 2246835>N then if N<1759798 then if N<118096 then X,N={},p[h(4697)]elseif N<440570 then N=4104058 elseif N<1135062 then Y,I,y,j,F=M[2],h(4787),M[3],M[1],-60 H=w()O[H]=M[4]X=p[I]I=h(4771)N=X[I]u,I=h(4829),h(4660)X=N(I)I=w()O[I]=X o,X=0,h(4758)N=O[I]m=j N[X]=m N=O[I]l,X,D,k=118,h(4710),0,0 q=p[u]u=h(4763)m=q[u]u=0 q=m(u,o,D)N[X]=q N=O[I]o,m,X,u=0,1,h(4764),h(4695)N[X]=m X=h(4797)N=O[I]q=p[u]u=h(4771)m=q[u]u,D=1,1 q=m(u,o,D,k)N[X]=q X=h(4689)N=O[I]m=2000 N[X]=m m=h(4787)X=p[m]m=h(4771)N=X[m]m,C=h(4660),12 X=N(m)m=w()D=-150 O[m]=X N=O[m]q=O[I]X,o=h(4758),h(4752)N[X]=q N=O[m]u=O[B[1]]X=h(4710)q=u[o]N[X]=q N=O[m]X,o=h(4715),h(4692)u=O[B[1]]q=u[o]N[X]=q X,o,k,q=h(4788),h(4695),.5,2 N=O[m]N[X]=q X=h(4755)N=O[m]u=p[o]o=h(4771)q=u[o]o=.5 u=q(o,D,k,F)N[X]=u N=O[m]X,o,k=h(4797),h(4695),0 u=p[o]o=h(4771)q=u[o]D,F,o=0,0,0 u=q(o,D,k,F)N[X]=u L,o=42,h(4690)N=O[m]g=h(4781)u=p[o]D,X,o=.5,h(4776),h(4771)q=u[o]k,o=0,.5 u=q(o,D)o,q,F=h(4745),6962889~=13875789,10 N[X]=u N=O[m]X=h(4706)N[X]=q N=O[m]X,q=h(4764),.95 N[X]=q q=2001 N=O[m]X,D=h(4689),14 N[X]=q q=h(4787)X=p[q]q=h(4771)N=X[q]u=O[m]q=h(4799)X=N(q,u)N=h(4708)u=p[o]o=h(4771)q=u[o]o=0 u=q(o,D)o,q=h(4695),h(4787)X[N]=u X=p[q]q=h(4771)N=X[q]q=h(4767)X=N(q)N,q=h(4758),X X=O[m]q[N]=X X,N=1,h(4764)q[N]=X N=h(4755)u=p[o]D,o=15,h(4771)X=u[o]o=0 u=X(o,D,k,F)k=0 q[N]=u N,o=h(4797),h(4695)u=p[o]D,o=32,h(4771)X=u[o]F,o=32,0 u=X(o,D,k,F)q[N]=u j,N,D=nil,h(4793),h(4781)o=p[D]D=h(4793)u=o[D]o=h(4729)X=u[o]q[N]=X N,X=h(4825),h(4827)q[N]=X u=O[B[1]]N,o=h(4679),h(4692)X=u[o]u=h(4787)q[N]=X X,N=26,h(4675)q[N]=X X,e,N=2002,78,h(4689)q[N]=X X=p[u]u=h(4771)N=X[u]u,F=h(4767),0 X=N(u)D,u,N=h(4695),X,h(4758)X=O[m]k=52 u[N]=X X,N=1,h(4764)u[N]=X N=h(4755)o=p[D]D=h(4771)X=o[D]D=0 o=X(D,k,F,C)k=-70 u[N]=o F,N,D=0,h(4797),h(4695)o=p[D]D,C=h(4771),24 X=o[D]D=1 o=X(D,k,F,C)C=0 u[N]=o k,N=h(4781),h(4793)D=p[k]k=h(4793)o=D[k]D=h(4729)X=o[D]u[N]=X X,N=Y,h(4825)u[N]=X N,D=h(4679),h(4692)o=O[B[1]]X=o[D]u[N]=X k,N,X=h(4781),h(4675),15 u[N]=X N=h(4738)D=p[k]k=h(4738)o=D[k]D=h(4681)X=o[D]k=h(4695)u[N]=X X,Y,o,N=2002,nil,h(4787),h(4689)u[N]=X X=p[o]o=h(4771)N=X[o]o=h(4767)X=N(o)N,F,o=h(4758),15,X X=O[m]o[N]=X N,X=h(4764),1 o[N]=X N=h(4755)D=p[k]k=h(4771)X=D[k]k=0 D=X(k,F,C,L)o[N]=D N,k=h(4797),h(4695)D=p[k]k,F,C=h(4771),-30,0 X=D[k]L,k=30,1 D=X(k,F,C,L)o[N]=D F=h(4781)k=p[F]C,N,F=h(4673),h(4793),h(4793)D=k[F]U,k=0,h(4684)X=D[k]o[N]=X N,X=h(4825),y o[N]=X D=O[B[1]]N,k=h(4679),h(4825)X=D[k]F=h(4781)o[N]=X N,X=h(4675),11 o[N]=X X,N=16231461>=11428519,h(4678)o[N]=X N=h(4738)k=p[F]F=h(4738)D=k[F]L,k=0,h(4681)X=D[k]D=h(4787)o[N]=X N,X=h(4689),2002 o[N]=X X=p[D]D=h(4771)N=X[D]D=h(4765)X=N(D)D=w()O[D]=X X=h(4758)N=O[D]k=O[m]N[X]=k N=O[D]F=O[B[1]]k=F[C]X,E=h(4710),0 N[X]=k N=O[D]k,C,X=0,h(4695),h(4788)N[X]=k X=h(4755)N=O[D]F=p[C]C=h(4771)k=F[C]C=.25 F=k(C,L,U,e)L,o=0,nil N[X]=F U,C=0,h(4695)N=O[D]X=h(4797)F=p[C]C,e=h(4771),30 k=F[C]C=.5 F=k(C,L,U,e)N[X]=F L=h(4781)N=O[D]X=h(4793)C=p[L]L=h(4793)F=C[L]C=h(4729)k=F[C]U,L=255,255 N[X]=k N=O[D]C,k,X=h(4829),h(4830),h(4825)N[X]=k N=O[D]X=h(4679)F=p[C]C=h(4763)k=F[C]C=255 F=k(C,L,U)N[X]=F k,X=12,h(4675)N=O[D]N[X]=k X=h(4818)N=O[D]k=4730378>=7854893 N[X]=k X=h(4689)N=O[D]C,k=h(4745),2002 N[X]=k k=h(4787)X=p[k]k=h(4771)N=X[k]F=O[D]k=h(4799)X=N(k,F)N,L=h(4708),8 F=p[C]C,u=h(4771),nil k=F[C]C=0 F=k(C,L)X[N]=F k,L=h(4761),h(4760)X=O[D]N=X[k]X=h(4696)k=G(5419409,{B[2],D,B[1]})U,X=.4,N[X]X=X(N,k)X=O[D]k=h(4693)N=X[k]k=z(10840406,{B[2];D,B[1]})X=h(4696)X=N[X]X=X(N,k)N=O[B[2]]k=O[I]C=p[L]L=h(4771)F=C[L]L,X,y=.2,h(4701),nil C=F(L)X,L=N[X],h(4764)F={[L]=U}X=X(N,k,C,F)N=h(4775)N=X[N]N=N(X)L=h(4760)N=O[B[2]]k=O[m]C=p[L]L=h(4771)F=C[L]L=.3 r=p[g]g=h(4699)e=r[g]r=h(4783)U=e[r]r=h(4695)C=F(L,U)L=h(4797)e=p[r]r,q=h(4771),nil U=e[r]X=h(4701)X,r,g=N[X],0,300 e=U(r,g,E,l)F={[L]=e}X=X(N,k,C,F)N,k=h(4775),h(4712)N=X[N]N=N(X)X=O[D]N=X[k]k=R(11830008,{B[2],I,m;H})H=V(H)I=V(I)D=V(D)X=h(4696)m=V(m)X=N[X]X=X(N,k)N,X=p[h(4826)],{}else Y,o=M[2],0 H=w()j=M[1]y=w()O[y]=M[3]I=h(4787)O[H]=M[4]X=p[I]m,I=j,h(4771)N=X[I]u,k,I=h(4829),0,h(4660)X=N(I)I=w()O[I]=X X=h(4758)N=O[I]N[X]=m N=O[I]D,X=0,h(4710)q=p[u]u=h(4763)m=q[u]u=0 q=m(u,o,D)u=h(4695)N[X]=q N=O[I]X,m,C,D=h(4764),1,10,1 N[X]=m X=h(4797)N=O[I]q=p[u]u=h(4771)m=q[u]u,o=1,0 q=m(u,o,D,k)N[X]=q m,X=2000,h(4689)N=O[I]k=.5 N[X]=m m,L=h(4787),12 X=p[m]m=h(4771)N=X[m]m,o=h(4660),h(4752)X=N(m)r=92 m=w()O[m]=X N=O[m]X=h(4758)q=O[I]N[X]=q X=h(4710)N=O[m]u=O[B[1]]q=u[o]N[X]=q o=h(4766)N=O[m]u=O[B[1]]X=h(4715)q=u[o]o=h(4695)N[X]=q F,q,D=-75,2,-160 N=O[m]X=h(4788)N[X]=q X=h(4755)N=O[m]u=p[o]o=h(4771)q=u[o]o=.5 u=q(o,D,k,F)N[X]=u k,F=0,0 N=O[m]o=h(4695)u=p[o]X,D,o=h(4797),0,h(4771)q=u[o]o=0 u=q(o,D,k,F)D=.5 N[X]=u o=h(4690)N=O[m]u=p[o]X,o=h(4776),h(4771)q=u[o]o=.5 u=q(o,D)N[X]=u o,q,X=h(4745),11223640>=2994218,h(4706)N=O[m]N[X]=q q,X=.95,h(4764)N=O[m]N[X]=q X,D,q=h(4689),14,2001 N=O[m]N[X]=q q,k=h(4787),255 X=p[q]q=h(4771)N=X[q]u=O[m]q=h(4799)X=N(q,u)N=h(4708)u=p[o]o=h(4771)q=u[o]o=0 u=q(o,D)q=h(4787)X[N]=u X=p[q]q=h(4771)N=X[q]q=h(4660)X=N(q)D,N,q,o=255,h(4758),X,h(4829)X=O[m]q[N]=X u=p[o]N,o=h(4710),h(4763)X=u[o]o=255 u=X(o,D,k)q[N]=u X,N=.97,h(4764)q[N]=X D,k,X,N=0,.3,0,h(4788)q[N]=X N,o=h(4797),h(4695)u=p[o]F,o=0,h(4771)X=u[o]o=1 u=X(o,D,k,F)X=2002 q[N]=u N,u=h(4689),h(4787)q[N]=X X=p[u]u=h(4771)N=X[u]u=h(4799)X=N(u,q)N,D=h(4708),h(4745)o=p[D]D,k,F=h(4771),12,0 u=o[D]D=0 o=u(D,k)u,k=h(4787),15 X[N]=o X=p[u]u=h(4771)N=X[u]u=h(4767)X=N(u)u,f,N=X,0,h(4758)X=O[m]u[N]=X N,X=h(4764),1 u[N]=X N,D=h(4755),h(4695)o=p[D]D=h(4771)X=o[D]D=0 o=X(D,k,F,C)U=42 u[N]=o D=h(4695)o=p[D]N,k,D,C=h(4797),32,h(4771),32 X=o[D]D,F=0,0 o=X(D,k,F,C)u[N]=o k,N=h(4781),h(4793)D=p[k]k,e=h(4793),0 o=D[k]D=h(4729)X=o[D]D=h(4766)u[N]=X X,N=h(4718),h(4825)u[N]=X o=O[B[1]]N=h(4679)X=o[D]u[N]=X X,o,N,C=26,h(4787),h(4675),0 u[N]=X N,X=h(4689),2002 u[N]=X X=p[o]F,o=52,h(4771)N=X[o]o=h(4767)X=N(o)o=X X=O[m]k,N=h(4695),h(4758)o[N]=X N,X=h(4764),1 o[N]=X N=h(4755)D=p[k]k=h(4771)X=D[k]k=0 D=X(k,F,C,L)k=h(4695)o[N]=D D=p[k]g,k,C=92,h(4771),0 X=D[k]F,L,k,N=-70,24,1,h(4797)D=X(k,F,C,L)o[N]=D C,N,F=15,h(4793),h(4781)k=p[F]F=h(4793)D=k[F]k=h(4729)X=D[k]o[N]=X X,F,N=h(4791),h(4781),h(4825)o[N]=X k,N=h(4766),h(4679)D=O[B[1]]X=D[k]o[N]=X N,X=h(4675),15 o[N]=X N=h(4738)k=p[F]F=h(4738)D=k[F]q,F,k=nil,h(4695),h(4681)X=D[k]o[N]=X N,X,D=h(4689),2002,h(4787)o[N]=X X=p[D]D=h(4771)N=X[D]D=h(4767)X=N(D)D=X X=O[m]N,L=h(4758),0 D[N]=X l,N,X=h(4781),h(4764),1 D[N]=X N=h(4755)k=p[F]F=h(4771)X=k[F]F=0 k=X(F,C,L,U)D[N]=k F,N,U=h(4695),h(4797),55 k=p[F]L,C,F=0,-30,h(4771)X=k[F]F=1 k=X(F,C,L,U)C=h(4781)D[N]=k N=h(4793)F=p[C]C=h(4793)k=F[C]C,F=h(4724),h(4684)X=k[F]D[N]=X F=Y..C k,N=h(4786),h(4825)X=k..F F=h(4825)D[N]=X N,U=h(4679),0 k=O[B[1]]C=h(4781)X=k[F]D[N]=X X,N,L=11,h(4675),h(4782)D[N]=X X,N=2908409<6182722,h(4678)D[N]=X N=h(4738)F=p[C]C=h(4738)k=F[C]F=h(4681)X=k[F]D[N]=X N,X,k=h(4689),2002,h(4787)D[N]=X X=p[k]k=h(4771)N=X[k]k=h(4765)X=N(k)k=w()O[k]=X X=h(4758)N=O[k]F=O[m]N[X]=F X=h(4710)N=O[k]C=O[B[1]]F=C[L]L=h(4695)N[X]=F F=0 N=O[k]X=h(4788)N[X]=F N=O[k]C=p[L]L,X=h(4771),h(4755)F=C[L]L=.08 C=F(L,U,e,r)r=30 N[X]=C e,L,U=0,h(4695),0 N=O[k]X=h(4797)C=p[L]L=h(4771)F=C[L]L=.38 C=F(L,U,e,r)N[X]=C U=h(4781)N=O[k]L=p[U]U=h(4793)C=L[U]X,L,U=h(4793),h(4729),0 F=C[L]L,e=h(4829),0 N[X]=F X=h(4825)N=O[k]F=h(4795)N[X]=F N=O[k]X=h(4679)C=p[L]L=h(4763)F=C[L]L=0 C=F(L,U,e)F=12 N[X]=C N=O[k]X,U=h(4675),8 N[X]=F N=O[k]F,X=16093391<4260651,h(4818)N[X]=F X,F,j,L=h(4689),2002,nil,h(4745)N=O[k]N[X]=F F=h(4787)X=p[F]F=h(4771)N=X[F]F=h(4799)C=O[k]X=N(F,C)N=h(4708)C=p[L]L=h(4771)F=C[L]L=0 C=F(L,U)F=h(4761)X[N]=C X=O[k]e=70 N=X[F]X=h(4696)X=N[X]F=G(6760344,{B[2],k})X=X(N,F)F=h(4693)X=O[k]N=X[F]F=c(2801451,{B[2],k,B[1]})X=h(4696)X=N[X]X=X(N,F)F=h(4787)X=p[F]F=h(4771)N=X[F]U,r,F=h(4829),80,h(4765)X=N(F)F=w()O[F]=X N=O[F]X=h(4758)C=O[m]N[X]=C N=O[F]L=p[U]X,U=h(4710),h(4763)C=L[U]U=70 L=C(U,e,r)N[X]=L N=O[F]C,X,r,U=0,h(4788),0,h(4695)N[X]=C X=h(4755)N=O[F]a,e=132,0 L=p[U]U=h(4771)C=L[U]U=.54 L=C(U,e,r,g)U,r=h(4695),0 N[X]=L N=O[F]X=h(4797)L=p[U]U,e=h(4771),0 C=L[U]U,g=.38,30 L=C(U,e,r,g)N[X]=L e,X=h(4781),h(4793)N=O[F]U=p[e]e=h(4793)L=U[e]U,u,r=h(4729),nil,255 C=L[U]N[X]=C N=O[F]C,X,U,e=h(4668),h(4825),h(4829),255 N[X]=C X=h(4679)N=O[F]L=p[U]U=h(4763)C=L[U]U=255 L=C(U,e,r)C=12 N[X]=L X=h(4675)N=O[F]N[X]=C C,X=12531008>=13465674,h(4818)N=O[F]N[X]=C o=nil N=O[F]C,e,X=2002,8,h(4689)N[X]=C C=h(4787)X=p[C]C=h(4771)N=X[C]L=O[F]C=h(4799)X=N(C,L)U=h(4745)L=p[U]U,N,D=h(4771),h(4708),nil C=L[U]U=0 L=C(U,e)C=h(4761)X[N]=L X=O[F]N=X[C]C=G(9800676,{B[2];F})X=h(4696)X=N[X]X=X(N,C)C=h(4693)X=O[F]N=X[C]C=c(9696667,{B[2],F})X=h(4696)X=N[X]X=X(N,C)X,e=h(4701),h(4760)N=O[B[2]]C=O[I]X,r=N[X],.4 U=p[e]e=h(4771)L=U[e]e=.2 U=L(e)e=h(4764)L={[e]=r}X=X(N,C,U,L)N=h(4775)N=X[N]N=N(X)N=O[B[2]]C=O[m]e=h(4760)U=p[e]e=h(4771)L=U[e]E=p[l]l=h(4699)g=E[l]E,l=h(4783),320 r=g[E]X,e,E=h(4701),.3,h(4695)U=L(e,r)g=p[E]E,X=h(4771),N[X]r=g[E]e,E=h(4797),0 g=r(E,l,f,a)L={[e]=g}X=X(N,C,U,L)L,N=h(4712),h(4775)N=X[N]N=N(X)N=x(13372059,{B[2],I;m})C=w()m=V(m)Y=nil O[C]=N X=O[k]N=X[L]L=G(13737588,{C;y})X=h(4696)y=V(y)I=V(I)X=N[X]X=X(N,L)L=h(4712)X=O[F]k=V(k)N=X[L]X=h(4696)L=i(2022087,{C,H})F=V(F)C=V(C)X=N[X]H=V(H)X=X(N,L)X,N={},p[h(4735)]end else if N<1920487 then Y=h(4743)X=p[Y]Y=h(4694)N=X[Y]X=h(4671)X=N[X]X=X(N)N=7398222 elseif 1978125>N then N=O[B[1]]u,I,y,m,X=h(4781),0,h(4695),0,h(4755)Y=p[y]H,y=-40,h(4771)j=Y[y]y=0 Y=j(y,H,I,m)N[X]=Y N=O[B[2]]j=O[B[1]]o,H=h(4781),h(4760)y=p[H]H=h(4771)Y=y[H]H=1.5 q=p[u]u=h(4699)m=q[u]q=h(4802)I=m[q]u=p[o]o=h(4685)q=u[o]u,o=h(4713),0 m=q[u]D,u=0,10 y=Y(H,I,m)q=h(4695)m=p[q]H,X,q=h(4755),h(4701),h(4771)X=N[X]I=m[q]q=1 m=I(q,u,o,D)Y={[H]=m}X=X(N,j,y,Y)j,N=h(4772),h(4775)N=X[N]N=N(X)X=p[j]j=h(4723)N=X[j]j=1.5 X=N(j)N=12748863 else N=O[B[1]]X=N()N=O[B[2]]N=N and 6734269 or 12391 end end else if N>3162568 then if N<3494438 then N=O[B[1]]X=N()H,I,y=.4,h(4733),.2 j=w()Y=h(4772)O[j]=X X=p[Y]Y=h(4723)N=X[Y]Y=.5 X=N(Y)Y=h(4774)X=O[j]N=X[Y]Y,X=h(4785),h(4825)N[X]=Y N=O[B[2]]Y=O[j]X=N(Y,y,H,I)Y=h(4772)X=p[Y]Y=h(4723)N=X[Y]y=w()Y=.5 X=N(Y)Y=h(4743)X=p[Y]Y=h(4819)N=X[Y]I=h(4683)Y=w()X=h(4721)O[Y]=N N=h(4664)O[y]=N N=p[X]o=h(4769)H=c(12948278,{Y;y})X=N(H)X=O[j]H=h(4750)N=X[H]X=h(4825)q=O[y]D=O[Y]u=o..D m=q..u H=I..m N[X]=H X=O[j]H=h(4774)N=X[H]X=h(4825)H=O[y]N[X]=H m=.4 N=O[B[2]]q,I=h(4669),.5 H=O[j]X=N(H,I,m,q)X=O[B[3]]H=O[Y]N=X[H]H=w()O[H]=N I=h(4772)X=p[I]I=h(4723)N=X[I]I=.5 X=N(I)N=O[H]N=N and 15510896 or 11373075 elseif 3798114>N then X=h(4834)N=p[X]Y=h(4743)j=p[Y]H=O[B[1]]I=h(4663)y=H[I]H=h(4820)H=j[H]Y={H(j,y)}X=N(T(Y))N={X()}X={T(N)}N=p[h(4739)]else N=12748863 end else if 2636517>N then q=h(4833)N=O[B[6]]o=h(4705)I=O[B[2]]m=h(4659)H=I[m]I=h(4812)u=p[o]o=u(Y)m=q..o q=R(4084117,{B[2]})X=N(H,I,m,q)N=9408034 elseif 2840662>N then q=h(4782)N=O[B[1]]H=h(4760)j=O[B[2]]y=p[H]H,X=h(4771),h(4701)Y=y[H]H=.2 y=Y(H)m=O[B[3]]I=m[q]X,H=N[X],h(4710)Y={[H]=I}X=X(N,j,y,Y)N=h(4775)N=X[N]N=N(X)X,N={},p[h(4740)]elseif N<2934492 then y=h(4726)N=O[B[1]]X=h(4701)Y=O[B[2]]j=Y[y]H,X=h(4760),N[X]y=p[H]H=h(4771)Y=y[H]H,I=.3,1 y=Y(H)H=h(4764)Y={[H]=I}X=X(N,j,y,Y)N=h(4775)N,I,y,H=X[N],1,h(4711),h(4760)N=N(X)X=h(4701)N=O[B[1]]Y=O[B[2]]j=Y[y]X=N[X]y=p[H]H=h(4771)Y=y[H]H=.3 y=Y(H)H=h(4764)Y={[H]=I}X=X(N,j,y,Y)j,N=h(4772),h(4775)N=X[N]N=N(X)X=p[j]j=h(4723)N=X[j]j=.3 X=N(j)X=O[B[2]]j=h(4659)N=X[j]X=h(4807)X=N[X]X=X(N)X,N={},p[h(4757)]else N=O[B[2]]q=O[j]D,o,u=h(4736),.3,1 X=N(q,u,o,D)o,q=h(4782),h(4677)X=O[j]N=X[q]k,X=1,h(4679)u=O[B[4]]q=u[o]N[X]=q q=h(4772)X=p[q]q,D=h(4723),h(4760)N=X[q]q=.8 X=N(q)N=O[B[5]]o=h(4726)u=O[j]q=u[o]o=p[D]D=h(4771)u=o[D]D=.4 o=u(D)D,X=h(4764),h(4701)X,u=N[X],{[D]=k}X=X(N,q,o,u)o,N,D=h(4711),h(4775),h(4760)N=X[N]N=N(X)X=h(4701)N=O[B[5]]k=1 u=O[j]q=u[o]o=p[D]X,D=N[X],h(4771)u=o[D]D=.3 o=u(D)D=h(4764)u={[D]=k}X=X(N,q,o,u)q,N=h(4772),h(4775)N=X[N]N=N(X)X=p[q]q=h(4723)N=X[q]q=.4 X=N(q)X=O[j]q=h(4659)N=X[q]X=h(4807)X=N[X]X=X(N)N=15225096 end end end else if N<6553336 then if 4671760>N then if 4094087>N then j=h(4659)X=O[B[1]]N=X[j]X=h(4807)X=N[X]X=X(N)N,X=p[h(4700)],{}elseif 4135461>N then Y=h(4688)j=p[Y]Y=j()j=O[B[1]]X=Y-j j=O[B[2]]N=X<j N=N and 14943902 or 13338265 elseif 4197425>N then X,N={},p[h(4741)]else j=h(4787)X=p[j]j=h(4771)N=X[j]j=h(4780)X=N(j)j=X X,N,o=h(4803),h(4737),.5 j[N]=X m=0 X=O[B[1]]N=h(4758)j[N]=X H,N,X=h(4781),h(4730),5063307>=9789332 j[N]=X y=p[H]N,H=h(4832),h(4832)Y=y[H]y=h(4817)X=Y[y]Y=h(4787)j[N]=X X=p[Y]Y,H=h(4771),h(4829)N=X[Y]Y,e,q,k,C=h(4660),146,0,0,50 X=N(Y)I,Y,N=0,X,h(4758)X=j Y[N]=X u,N=-120,h(4710)y=p[H]H=h(4763)X=y[H]H=0 y=X(H,I,m)H=h(4695)Y[N]=y X,N=1,h(4764)Y[N]=X y=p[H]H,m,I=h(4771),1,0 X=y[H]N,H=h(4797),1 y=X(H,I,m,q)Y[N]=y N,X,y=h(4689),999,h(4787)Y[N]=X X=p[y]y=h(4771)N=X[y]I,y=h(4752),h(4660)X=N(y)N,y=h(4758),X X=Y y[N]=X N=h(4710)H=O[B[2]]X=H[I]q=.5 y[N]=X N=h(4715)H=O[B[2]]I=h(4794)X=H[I]y[N]=X N,I,X=h(4788),h(4695),2 y[N]=X N,m=h(4755),-175 H=p[I]I=h(4771)X=H[I]I=.5 H=X(I,m,q,u)F,q=18,0 y[N]=H N,I=h(4797),h(4695)H=p[I]I,u,m=h(4771),240,350 X=H[I]I=0 H=X(I,m,q,u)y[N]=H X,N,H=.95,h(4764),h(4787)y[N]=X X,N,g=1965918~=918139,h(4706),0 y[N]=X X,N=1000,h(4689)y[N]=X X=p[H]m,H=h(4745),h(4771)N=X[H]H,r,U,u=h(4799),148,108,-172 X=N(H,y)N=h(4708)I=p[m]q,H,m=16,X,h(4771)X=I[m]m=0 I=X(m,q)H[N]=I I=h(4787)X=p[I]I=h(4771)N=X[I]I=h(4660)X=N(I)I=X X,N=Y,h(4758)I[N]=X m=O[B[2]]q=h(4801)X=m[q]D,N=-117,h(4710)I[N]=X X,N=.7,h(4764)I[N]=X X,N=0,h(4788)I[N]=X N,q=h(4755),h(4695)m=p[q]q=h(4771)X=m[q]q=.5 m=X(q,u,o,D)I[N]=m N,q,o=h(4797),h(4695),0 m=p[q]q=h(4771)X=m[q]D,q,u=240,0,350 m=X(q,u,o,D)o=16 I[N]=m X,u,N,m=999,h(4745),h(4689),h(4787)I[N]=X X=p[m]m=h(4771)N=X[m]m=h(4799)X=N(m,I)N=h(4708)q=p[u]u=h(4771)m=q[u]u=0 q=m(u,o)X[N]=q u,m=h(4829),h(4787)X=p[m]m=h(4771)N=X[m]m=h(4660)X=N(m)o,N,m=255,h(4758),X X=y m[N]=X N=h(4710)q=p[u]u,D=h(4763),255 X=q[u]u=255 q=X(u,o,D)m[N]=q o,X,N=0,.96,h(4764)m[N]=X N,u,X=h(4788),h(4695),0 m[N]=X D,N=.35,h(4797)q=p[u]u=h(4771)X=q[u]u=1 q=X(u,o,D,k)X=1001 m[N]=q o,N,q=h(4745),h(4689),h(4787)m[N]=X X=p[q]q,D=h(4771),16 N=X[q]q=h(4799)X=N(q,m)N=h(4708)u=p[o]o=h(4771)q=u[o]o=0 u=q(o,D)D=0 X[N]=u q=h(4787)X=p[q]o,q=h(4695),h(4771)N=X[q]q=h(4767)X=N(q)q=X X,N=y,h(4758)q[N]=X k,L,N,X=0,85,h(4764),1 q[N]=X u=p[o]N,o=h(4755),h(4771)X=u[o]o=0 u=X(o,D,k,F)q[N]=u k,o,N=0,h(4695),h(4797)u=p[o]F,D,o=32,0,h(4771)X=u[o]o=1 u=X(o,D,k,F)D=h(4781)q[N]=u N=h(4793)o=p[D]D=h(4793)u=o[D]o=h(4729)X=u[o]q[N]=X o,X,N=h(4789),h(4670),h(4825)q[N]=X u=O[B[2]]X=u[o]k,N,F,u=0,h(4679),0,h(4787)q[N]=X N,X=h(4675),24 q[N]=X X,N=7486866>8892747,h(4674)q[N]=X X,N=1001,h(4689)q[N]=X X=p[u]u=h(4771)N=X[u]u=h(4767)X=N(u)N,u=h(4758),X X=y u[N]=X D,X,N=h(4695),1,h(4764)u[N]=X o=p[D]N,D=h(4755),h(4771)X=o[D]D=0 o=X(D,k,F,C)D=h(4695)u[N]=o o=p[D]F,N,D,k=0,h(4797),h(4771),0 X=o[D]D,C=1,16 o=X(D,k,F,C)u[N]=o N,k=h(4793),h(4781)D=p[k]F,k=0,h(4793)o=D[k]D,k=h(4684),h(4695)X=o[D]u[N]=X X,N,D=h(4666),h(4825),h(4756)u[N]=X N=h(4679)o=O[B[2]]X=o[D]u[N]=X o,N,X=h(4787),h(4675),10 u[N]=X N,X=h(4689),1001 u[N]=X X=p[o]o=h(4771)N=X[o]o=h(4767)X=N(o)N,o=h(4758),X X,A,C=y,h(4781),0 o[N]=X N,X=h(4764),1 o[N]=X N=h(4755)D=p[k]k=h(4771)X=D[k]k=0 D=X(k,F,C,L)L=20 o[N]=D N,k=h(4797),h(4695)D=p[k]F,k=0,h(4771)X=D[k]k,C=1,0 D=X(k,F,C,L)o[N]=D N,F=h(4793),h(4781)k=p[F]F=h(4793)D=k[F]k=h(4729)X=D[k]k=h(4825)o[N]=X X,N=h(4815),h(4825)o[N]=X N=h(4679)D=O[B[2]]X=D[k]o[N]=X C,X,N=0,12,h(4675)o[N]=X D,N,X=h(4787),h(4689),1001 o[N]=X X=p[D]D=h(4771)N=X[D]D,F=h(4767),h(4695)X=N(D)D,N,L=X,h(4758),0 X=y D[N]=X X,N=1,h(4764)D[N]=X N=h(4755)k=p[F]F=h(4771)X=k[F]F=0 k=X(F,C,L,U)D[N]=k N,C,F,L,U,E=h(4797),0,h(4695),0,14,255 k=p[F]F=h(4771)X=k[F]F=1 k=X(F,C,L,U)D[N]=k C,N=h(4781),h(4793)F=p[C]C=h(4793)k=F[C]F=h(4684)X=k[F]D[N]=X N,X=h(4825),h(4662)D[N]=X F=h(4756)k=O[B[2]]N=h(4679)X=k[F]C=h(4673)D[N]=X X,k,N,L=9,h(4787),h(4675),0 D[N]=X X,N=1001,h(4689)D[N]=X X=p[k]k=h(4771)N=X[k]k=h(4660)X=N(k)N,k=h(4758),X X=y k[N]=X N=h(4710)F=O[B[2]]X=F[C]k[N]=X N,X=h(4764),.8 k[N]=X N,X=h(4788),0 k[N]=X C=h(4695)F=p[C]N,C=h(4755),h(4771)X=F[C]U,C=0,.1 F=X(C,L,U,e)U=0 k[N]=F N,L,C=h(4797),0,h(4695)F=p[C]C,e=h(4771),10 X=F[C]C=.8 F=X(C,L,U,e)X,f=1001,200 k[N]=F F,N=h(4787),h(4689)k[N]=X X=p[F]F,L=h(4771),h(4745)N=X[F]F=h(4799)X=N(F,k)N=h(4708)C=p[L]U,L=5,h(4771)F=C[L]L=0 C=F(L,U)F=h(4787)X[N]=C X=p[F]F,e=h(4771),0 N=X[F]U,F=0,h(4660)X=N(F)F=X X,N,L=y,h(4758),h(4732)F[N]=X C=O[B[2]]X=C[L]L,N=h(4794),h(4710)F[N]=X N=h(4715)C=O[B[2]]X=C[L]F[N]=X X,N,L=1,h(4788),h(4695)F[N]=X C=p[L]L,N=h(4771),h(4755)X=C[L]L=.1 C=X(L,U,e,r)F[N]=C N,U,L=h(4797),0,h(4695)C=p[L]L,r=h(4771),6 X=C[L]L,e=.8,0 C=X(L,U,e,r)e=3 F[N]=C X,C,N=1002,h(4787),h(4689)F[N]=X X=p[C]U,C,r=h(4745),h(4771),1 N=X[C]C=h(4799)X=N(C,F)N=h(4708)L=p[U]U=h(4771)C=L[U]U=0 L=C(U,e)X[N]=L C=h(4787)X=p[C]C=h(4771)N=X[C]C=h(4660)X=N(C)U,C=h(4789),X X,N=F,h(4758)C[N]=X l=0 L=O[B[2]]X=L[U]U,N=h(4695),h(4710)C[N]=X X,N=0,h(4788)C[N]=X N=h(4797)L=p[U]U=h(4771)X=L[U]U,e=0,0 L=X(U,e,r,g)r,X=4,1003 C[N]=L N=h(4689)C[N]=X L=h(4787)X=p[L]L=h(4771)N=X[L]L=h(4799)X=N(L,C)g,N,e=255,h(4708),h(4745)U=p[e]e=h(4771)L=U[e]e=0 U=L(e,r)L=h(4787)X[N]=U X=p[L]L=h(4771)N=X[L]r,L=h(4829),h(4660)X=N(L)L=w()O[L]=X X=h(4758)N=O[L]U=C N[X]=U X=h(4710)N=O[L]e=p[r]r=h(4763)U=e[r]r=255 e=U(r,g,E)r=h(4695)N[X]=e U=.7 N=O[L]X=h(4764)N[X]=U N=O[L]X,U=h(4788),0 N[X]=U N=O[L]X,E=h(4797),1 e=p[r]r,g=h(4771),30 U=e[r]r=0 e=U(r,g,E,l)N[X]=e g,X,E=-40,h(4755),0 N=O[L]r=h(4695)e=p[r]l,r=0,h(4771)U=e[r]r=0 e=U(r,g,E,l)N[X]=e N=O[L]r,U,X=h(4745),1004,h(4689)N[X]=U U=h(4787)X=p[U]U=h(4771)N=X[U]e=O[L]l,U=165,h(4799)X=N(U,e)e=p[r]N,g,r=h(4708),4,h(4771)U=e[r]r=0 e=U(r,g)X[N]=e U,E=h(4772),0 X=p[U]U=h(4759)N=X[U]U=c(3943377,{L;B[3]})g=0 X=N(U)U=h(4787)X=p[U]U=h(4771)N=X[U]U,r=h(4767),h(4695)X=N(U)U,N=X,h(4758)X=y U[N]=X X,N=1,h(4764)U[N]=X e=p[r]N,r=h(4755),h(4771)X=e[r]r=0 e=X(r,g,E,l)U[N]=e E,r=0,h(4695)e=p[r]l,r,N=20,h(4771),h(4797)X=e[r]g,r=0,1 e=X(r,g,E,l)U[N]=e N,g=h(4793),h(4781)r=p[g]g=h(4793)e=r[g]r=h(4729)X=e[r]r=h(4789)U[N]=X N,X=h(4825),h(4810)U[N]=X N=h(4679)e=O[B[2]]X=e[r]E=0 U[N]=X e,X,N=h(4787),14,h(4675)U[N]=X X,N=1001,h(4689)U[N]=X X=p[e]g,e=h(4695),h(4771)N=X[e]e=h(4767)X=N(e)N,e=h(4758),X X,l=y,0 e[N]=X X,N=1,h(4764)e[N]=X N=h(4755)r=p[g]g=h(4771)X=r[g]g=0 r=X(g,E,l,f)e[N]=r g,f,N=h(4695),14,h(4797)r=p[g]g=h(4771)X=r[g]l,E,g=0,0,1 r=X(g,E,l,f)e[N]=r N,E=h(4793),h(4781)g=p[E]E=h(4793)r=g[E]g,E,l=h(4684),90,130 X=r[g]e[N]=X g,N,X=h(4829),h(4825),h(4680)e[N]=X r=p[g]N,g=h(4679),h(4763)X=r[g]g=100 r=X(g,E,l)e[N]=r X,N=9,h(4675)e[N]=X X,l,N=1001,.5,h(4689)e[N]=X X,E=h(4701),h(4760)N=O[B[3]]g=p[E]E=h(4771)r=g[E]E=.3 g=r(E)E,X=h(4764),N[X]r={[E]=l}X=X(N,Y,g,r)E,N=h(4760),h(4775)N=X[N]N=N(X)N=O[B[3]]g=p[E]E=h(4771)r=g[E]E=.3 a=p[A]A=h(4699)f=a[A]a=h(4783)l=f[a]X,f=h(4701),h(4711)X,A=N[X],h(4774)g=r(E,l)l,E=0,h(4764)r={[E]=l}X=X(N,y,g,r)N,r=h(4775),h(4677)N=X[N]N=N(X)a,X,g,E,l=h(4726),h(4659),h(4750),h(4792),h(4744)N={[X]=j;[r]=o;[g]=D,[E]=C;[l]=U;[f]=y;[a]=Y;[A]=u}X={N}N=p[h(4768)]end else if N<5267471 then N=O[B[2]]X=N()N=10566977 elseif 5895906>N then N=O[B[1]]j=O[B[2]]H=h(4760)y=p[H]q,H=h(4789),h(4771)Y=y[H]H=.2 y=Y(H)H,X=h(4710),h(4701)X=N[X]m=O[B[3]]I=m[q]Y={[H]=I}X=X(N,j,y,Y)N=h(4775)N=X[N]N=N(X)X,N={},p[h(4777)]else q=h(4677)X=O[j]N=X[q]X,q=h(4825),H N[X]=q N=12687486 end end else if 7145296>N then if 6747306>N then N=O[B[2]]X=N()N=12391 elseif 6826357>N then q,H=h(4829),h(4760)N=O[B[1]]j=O[B[2]]y=p[H]o,H=145,h(4771)Y=y[H]H,X=.2,h(4701)y=Y(H)m=p[q]q,u=h(4763),240 I=m[q]X,H,q=N[X],h(4710),110 m=I(q,u,o)Y={[H]=m}X=X(N,j,y,Y)N=h(4775)N=X[N]N=N(X)N,X=p[h(4821)],{}else Y,X=h(4743),h(4834)N=p[X]I=h(4663)j=p[Y]H=O[B[1]]y=H[I]H=h(4820)H=j[H]Y={H(j,y)}X=N(T(Y))N={X()}X={T(N)}N=p[h(4822)]end else if 7404810>N then X,y,H,Y=h(4743),h(4784),h(4704),h(4667)N=p[X]r,X=h(4665),h(4698)X,e=N[X],h(4676)X=X(N,Y)Y=X X=h(4743)N=p[X]X=h(4698)X,C=N[X],h(4665)X=X(N,y)S,U,hq,pq=190,h(4665),135,230 y=w()O[y]=X o,X,D=h(4737),h(4743),h(4672)N=p[X]l,X,I=h(4798),h(4698),h(4806)X=N[X]X=X(N,H)Y=nil H=w()O[H]=X X=h(4743)N=p[X]X=h(4698)X,Tq=N[X],60 X=X(N,I)g,m,E,k=h(4682),h(4719),h(4665),h(4663)I=w()O[I]=X X,b=h(4743),90 N=p[X]X=h(4698)X=N[X]X=X(N,m)m=X X,L=h(4828),h(4709)N=m[X]q,X,F=N,2753915549,h(4702)u,Nq={[o]=D;[k]=F,[C]=L},190 L,k,F,a,o,C=h(4714),h(4737),h(4816),255,189707,h(4663)D={[k]=F;[C]=L;[U]=e}L,vq,U,e,k,C=h(4716),0,h(4663),h(4725),4483381587,h(4737)F={[C]=L,[U]=e;[r]=g}e,U,C,g,r=h(4800),h(4737),h(4790),h(4749),h(4663)L,d={[U]=e;[r]=g;[E]=l},110 N={[X]=u;[o]=D,[k]=F,[C]=L}u=w()O[u]=N L,N,F,e,C=22,{},h(4829),16,8 k=p[F]K,X,F,r,A=85,h(4752),h(4763),20,150 D=k[F]n,f,F,U,l,Mq,o,E,P=85,235,12,4,36,55,N,16,140 k=D(F,C,L)D,J,L=h(4732),255,h(4829)C=p[L]L=h(4763)F=C[L]L=8 C=F(L,U,e)e=h(4829)U=p[e]g,e,F=45,h(4763),h(4814)L=U[e]e=28 U=L(e,r,g)L,g,t=h(4808),h(4829),255 r=p[g]g=h(4763)e=r[g]m,g=nil,22 r=e(g,E,l)l,e=h(4829),h(4825)E=p[l]l=h(4763)g=E[l]l,s=240,110 E=g(l,f,a)a,g=h(4829),h(4756)f=p[a]a=h(4763)l=f[a]a=160 f=l(a,A,S)S,o=h(4829),nil A=p[S]l,S=h(4673),h(4763)a=A[S]S=150 A=a(S,b,J)q,Qq,a,J=nil,0,h(4789),h(4829)b=p[J]J=h(4763)S=b[J]J=190 b=S(J,P,t)S,t=h(4692),h(4829)P=p[t]t=h(4763)J=P[t]t=255 P=J(t,n,K)J,K=h(4722),h(4829)n=p[K]K=h(4763)t=n[K]K=255 n=t(K,s,d)d=h(4829)s=p[d]d,t=h(4763),h(4782)K=s[d]d=90 s=K(d,pq,hq)Bq,K,hq=105,h(4766),h(4829)pq=p[hq]hq=h(4763)d=pq[hq]hq=255 pq=d(hq,Nq,Tq)d,Tq=h(4794),h(4829)Nq=p[Tq]Tq=h(4763)hq=Nq[Tq]Tq=70 Nq=hq(Tq,Mq,Bq)hq,Bq=h(4801),h(4829)Mq=p[Bq]Bq=h(4763)Tq=Mq[Bq]Bq=0 Mq=Tq(Bq,vq,Qq)N={[X]=k;[D]=C;[F]=U,[L]=r;[e]=E,[g]=f,[l]=A;[a]=b;[S]=P,[J]=n;[t]=s,[K]=pq,[d]=Nq;[hq]=Mq}D=w()O[D]=N k=w()L=w()N=x(4227986,{y,D;H})F=w()O[k]=N N=Z(657339,{D;H})O[F]=N C=w()y=V(y)N=W(1612785,{D;H})O[C]=N N=z(13203407,{I})O[L]=N N=G(3336025,{k,L,u,D;H;F;C})U=N C=V(C)F=V(F)u=V(u)k=V(k)N=U()H=V(H)X={}L=V(L)D=V(D)U=nil I=V(I)N=p[h(4687)]elseif N<8280518 then I,H=1,h(4760)N=O[B[1]]y=h(4726)Y=O[B[2]]j=Y[y]y=p[H]X,H=h(4701),h(4771)Y=y[H]H=.3 y=Y(H)H=h(4764)Y={[H]=I}H,X=h(4760),N[X]X=X(N,j,y,Y)N,y=h(4775),h(4711)N=X[N]N=N(X)N=O[B[1]]Y=O[B[2]]j=Y[y]y=p[H]X,H=h(4701),h(4771)Y=y[H]X,H,I=N[X],.3,1 y=Y(H)H=h(4764)Y={[H]=I}X=X(N,j,y,Y)N=h(4775)N=X[N]N=N(X)j=h(4772)X=p[j]j=h(4723)N=X[j]j=.3 X=N(j)j=h(4659)X=O[B[2]]N=X[j]X=h(4807)X=N[X]X=X(N)N,X=p[h(4754)],{}else D=h(4770)N=O[B[6]]o,F=h(4659),h(4705)u=O[j]q=u[o]u=h(4779)k=p[F]F=k(I)o=D..F D=c(7411398,{B[5];j})X=N(q,u,o,D)N=15225096 end end end end else if N<12848570 then if N>11106740 then if N<12244373 then if N<11445281 then u,I=h(4809),h(4677)X=O[j]q=h(4766)N=X[I]m=O[B[4]]I=m[q]X=h(4679)N[X]=I N=O[B[2]]q=.4 I=O[j]m=.7 X=N(I,m,q,u)I=h(4772)X=p[I]I=h(4723)N=X[I]I=.5 X=N(I)N=O[B[7]]m=O[j]q=h(4659)u=x(2879873,{B[5],j})I=m[q]m=O[y]q=G(10323952,{B[2];j;B[3];B[4],B[5],B[6]})X=N(I,m,q,u)N=13767993 elseif N<11673747 then y=z(6892371,{j})X=h(4721)N=p[X]H={N(y)}Y,X=H[2],H[1]y=X N=y and 12153942 or 2471583 elseif N<11991975 then N=O[B[1]]o,H,u,I=0,h(4760),0,1 j=O[B[2]]D=0 y=p[H]H=h(4771)Y=y[H]H=.2 y=Y(H)H=h(4764)Y,q,X={[H]=I},h(4695),h(4701)X=N[X]X=X(N,j,y,Y)H,N=h(4760),h(4775)N=X[N]N=N(X)N=O[B[1]]j=O[B[3]]y=p[H]H=h(4771)Y=y[H]H=.2 y=Y(H)X=h(4701)m=p[q]q=h(4771)I=m[q]q,H,X=0,h(4797),N[X]m=I(q,u,o,D)Y={[H]=m}X=X(N,j,y,Y)N,j=h(4775),h(4772)N=X[N]N=N(X)X=p[j]j=h(4723)N=X[j]j=.2 X=N(j)N=O[B[2]]X=h(4807)X=N[X]X=X(N)N=O[B[4]]N=N and 10589880 or 13754687 else N=O[B[1]]I,m=1,.3 H=O[B[2]]q=h(4691)X=N(H,I,m,q)H=h(4677)X=O[B[2]]N=X[H]m,X=h(4782),h(4679)I=O[B[4]]H=I[m]N[X]=H H,q=h(4772),h(4760)X=p[H]H,m=h(4723),h(4726)N=X[H]H=.8 X=N(H)N=O[B[5]]I=O[B[2]]u=1 H=I[m]X=h(4701)m=p[q]q=h(4771)I=m[q]q,X=.4,N[X]m=I(q)q=h(4764)I={[q]=u}X=X(N,H,m,I)N=h(4775)N,m,q=X[N],h(4711),h(4760)N=N(X)N=O[B[5]]I=O[B[2]]H=I[m]u,X=1,h(4701)m=p[q]q=h(4771)I=m[q]q=.3 m=I(q)q,X=h(4764),N[X]I={[q]=u}X=X(N,H,m,I)N=h(4775)N=X[N]N=N(X)H=h(4772)X=p[H]H=h(4723)N=X[H]H=.4 X=N(H)X=O[B[2]]H=h(4659)N=X[H]X=h(4807)X=N[X]X=X(N)N=9408034 end else if 12511145>N then j,Y=M,h(4743)X=p[Y]Y=h(4811)Y=X[Y]Y=Y(X)N=not Y N=N and 1906811 or 7398222 elseif N<12718174 then N=p[h(4703)]j=V(j)m=V(m)Y=V(Y)X={}I=V(I)H=nil y=V(y)else j=O[B[1]]N,X=j and 13971488 or 15995508,j end end else if N>10445464 then if 10578428>N then X,N={},p[h(4831)]elseif N<10715143 then N=O[B[4]]X=N()N=13754687 else N=O[B[1]]H=h(4760)j=O[B[2]]y=p[H]H,X=h(4771),h(4701)Y=y[H]H,q=.2,h(4673)y=Y(H)m=O[B[3]]I=m[q]H,X=h(4710),N[X]Y={[H]=I}X=X(N,j,y,Y)N=h(4775)N=X[N]N=N(X)N,X=p[h(4707)],{}end else if N<9552350 then N,y,Y=13337088,nil,nil elseif N<9748671 then N=O[B[1]]j=O[B[2]]H=h(4760)y=p[H]H=h(4771)Y=y[H]H=.2 y=Y(H)X,o,q,H=h(4701),80,h(4829),h(4710)m=p[q]q,u=h(4763),70 I=m[q]X,q=N[X],70 m=I(q,u,o)Y={[H]=m}X=X(N,j,y,Y)N=h(4775)N=X[N]N=N(X)X,N={},p[h(4748)]elseif 10062314>N then H=h(4760)N=O[B[1]]j=O[B[2]]o=100 y=p[H]H=h(4771)Y=y[H]u,H,q=90,.2,h(4829)y=Y(H)m=p[q]H,q=h(4710),h(4763)I=m[q]q=90 m=I(q,u,o)Y,X={[H]=m},h(4701)X=N[X]X=X(N,j,y,Y)N=h(4775)N=X[N]N=N(X)X,N={},p[h(4747)]else N=O[B[1]]y=.4 j=O[B[2]]H,Y=h(4778),.9 X=N(j,Y,y,H)j=h(4790)X=O[B[3]]N=X[j]j=w()O[j]=N N=O[j]N=N and 11517487 or 13337088 end end end else if N>13761340 then if N<15084499 then if 13869740>N then X={}j=V(j)H=V(H)N=p[h(4805)]Y=V(Y)y=V(y)elseif N<14457695 then N=15995508 Y=O[B[1]]y=h(4758)j=Y[y]X=j else j,H=h(4720),h(4688)X=p[j]j=h(4804)N=X[j]y=p[H]u=0 H=y()y=O[B[1]]Y=H-y y=O[B[2]]j=Y/y Y,q,H=1,1,1 X=N(j,Y)j,I=X,1 y=H-j X=1 H=I-j Y=y*H N=X-Y Y=N X=O[B[3]]I=O[B[4]]m=O[B[3]]H=I-m y=H*Y m=h(4695)N=X+y y=N X=O[B[5]]H=h(4792)N=X[H]X=h(4797)I=p[m]m,j=h(4771),nil H=I[m]m=0 I=H(y,m,q,u)N[X]=I q=h(4720)X=O[B[5]]H=h(4744)N=X[H]u,Y,X=100,nil,h(4825)m=p[q]q=h(4746)I=m[q]q=y*u m=I(q)I=h(4742)H=m..I N[X]=H H=h(4753)X=O[B[6]]N=X[H]X=h(4671)X=N[X]X=X(N)y,N=nil,4104058 end else if N<15367996 then N,m,I=13767993,nil,nil elseif N<15753202 then X=O[j]q,I=h(4782),h(4677)N=X[I]X=h(4679)m=O[B[4]]I=m[q]F=h(4737)N[X]=I o=h(4762)N=O[B[2]]m=.75 I=O[j]q=.4 k=O[H]D=k[F]u=o..D X=N(I,m,q,u)I=h(4772)X=p[I]I=h(4723)N=X[I]q,I,o=.3,.3,h(4661)X=N(I)m=.9 N=O[B[2]]I=O[j]F=h(4665)k=O[H]D=k[F]u=o..D X=N(I,m,q,u)m=z(3652851,{H})X=h(4721)N=p[X]q={N(m)}X=q[1]m,I=X,q[2]q=h(4772)X=p[q]q=h(4723)N=X[q]q=.3 X=N(q)N=m and 2989112 or 9149639 else N=X and 1934163 or 4166865 end end else if 13355162>N then if 13075842>N then j,Y=h(4743),h(4717)X=p[j]j=h(4698)j=X[j]j=j(X,Y)Y=O[B[1]]X=h(4813)X=j[X]X=X(j,Y)j=h(4737)N=X[j]O[B[2]]=N N,X=p[h(4751)],{}elseif N<13270247 then Y=w()j=w()H=M[4]y=w()O[j]=M[1]O[Y]=M[2]u=h(4792)O[y]=M[3]q=O[j]m=q[u]q=h(4797)I=m[q]m=h(4728)X=I[m]I=h(4796)N=X[I]q,X=h(4772),h(4688)I=w()O[I]=N m=w()N=p[X]X=N()O[m]=X X=p[q]q=h(4759)N=X[q]q=G(223801,{m,y;I;Y;j;B[1]})X=N(q)N=H and 6372404 or 12687486 elseif 13337676>N then j=V(j)X,N={},p[h(4823)]else y,j=h(4695),h(4792)X=O[B[5]]N=X[j]I,m=1,0 Y=p[y]X,y=h(4797),h(4771)j=Y[y]y=O[B[4]]H=0 Y=j(y,H,I,m)N[X]=Y m=100 X=O[B[5]]j=h(4744)N=X[j]H,X=h(4720),h(4825)y=p[H]H=h(4746)Y=y[H]I=O[B[4]]H=I*m y=Y(H)Y=h(4742)j=y..Y N[X]=j X,N={},p[h(4727)]end else if 13554823>N then X,H=h(4701),h(4760)N=O[B[1]]j=O[B[2]]q=h(4695)y=p[H]D,H,X=0,h(4771),N[X]Y=y[H]H,o,I,u=.2,0,1,0 y=Y(H)H=h(4764)Y={[H]=I}X=X(N,j,y,Y)N=h(4775)N,H=X[N],h(4760)N=N(X)N=O[B[1]]j=O[B[3]]y=p[H]X,H=h(4701),h(4771)Y=y[H]X,H=N[X],.2 y=Y(H)H=h(4797)m=p[q]q=h(4771)I=m[q]q=0 m=I(q,u,o,D)Y={[H]=m}X=X(N,j,y,Y)N=h(4775)N=X[N]N=N(X)j=h(4772)X=p[j]j=h(4723)N=X[j]j=.2 X=N(j)N=O[B[2]]X=h(4807)X=N[X]X=X(N)X,N={},p[h(4773)]elseif N<13746137 then N=O[B[1]]X=N()N=O[B[2]]N=N and 5115534 or 10566977 else X,N={},p[h(4731)]end end end end end end N=#v return T(X)end,function(p,h)local T=y(h)local M=function(M,B,v,Q,X,O,j,w)return N(p,{M,B,v,Q;X,O;j;w},h,T)end return M end,function()Y=Y+1 j[Y]=1 return Y end return(I(12334804,{}))(T(X))end)(select,{...},unpack or table[h(4824)],newproxy,getfenv and getfenv()or _ENV,getmetatable,setmetatable)end)(...)
+-- =====================================================================
+-- 🌟 NEBULA HUB v3 - Fixed UI + Better Text
+-- =====================================================================
+
+if not game:IsLoaded() then game.Loaded:Wait() end
+
+local _HttpService = game:GetService("HttpService")
+local CoreGui = game:GetService("CoreGui")
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
+local Players = game:GetService("Players")
+local _LocalPlayer = Players.LocalPlayer
+
+-- =====================================================================
+-- SCRIPT DATABASE
+-- =====================================================================
+local ScriptDatabase = {
+    [2753915549] = {
+        Name = "Blox Fruits",
+        Script = "https://github.com/lzhenweiDev/rblx-scripts/raw/refs/heads/main/NightHubBloxfruits.luau",
+        Description = "Find Fruit, Serverhop, Webhook"
+    },
+    [4483381587] = {
+        Name = "Murder Mystery 2",
+        Script = "https://github.com/lzhenweiDev/Scripts/raw/refs/heads/main/MurderMystery2.lua",
+        Description = "ESP Roles, Aimbot, noClip"
+    },
+    ["UNIVERSAL"] = {
+        Name = "Universal Admin",
+        Script = "https://github.com/lzhenweiDev/rblx-scripts/raw/refs/heads/main/Nebula-Admin.lua",
+        Description = "Fly, Noclip, ESP, Godmode"
+    },
+}
+
+-- =====================================================================
+-- NEBULA UI LIBRARY (MINI VERSION)
+-- =====================================================================
+local _Nebula = {}
+local CurrentTheme = {
+    Background = Color3.fromRGB(15, 10, 25),
+    Background2 = Color3.fromRGB(10, 6, 18),
+    Surface = Color3.fromRGB(25, 18, 40),
+    Surface2 = Color3.fromRGB(20, 14, 32),
+    Text = Color3.fromRGB(230, 220, 255),
+    TextDim = Color3.fromRGB(150, 140, 180),
+    Accent = Color3.fromRGB(140, 80, 255),
+    AccentGlow = Color3.fromRGB(180, 130, 255),
+    Danger = Color3.fromRGB(255, 70, 70),
+    Success = Color3.fromRGB(80, 220, 120),
+    Warning = Color3.fromRGB(255, 180, 50),
+    Border = Color3.fromRGB(60, 45, 90),
+}
+
+-- =====================================================================
+-- LOADING SCREEN
+-- =====================================================================
+local function ShowLoadingUI()
+    local SG = Instance.new("ScreenGui")
+    SG.Name = "NebulaHub"
+    SG.Parent = CoreGui
+    SG.ResetOnSpawn = false
+    SG.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    
+    -- Background
+    local bg = Instance.new("Frame")
+    bg.Parent = SG
+    bg.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+    bg.BackgroundTransparency = 1
+    bg.Size = UDim2.new(1, 0, 1, 0)
+    bg.ZIndex = 999
+    
+    -- Center Frame
+    local center = Instance.new("Frame")
+    center.Parent = bg
+    center.BackgroundColor3 = CurrentTheme.Background
+    center.BorderColor3 = CurrentTheme.Border
+    center.BorderSizePixel = 1
+    center.Position = UDim2.new(0.5, -175, 0.5, -120)
+    center.Size = UDim2.new(0, 350, 0, 240)
+    center.BackgroundTransparency = 1
+    center.ClipsDescendants = true
+    center.ZIndex = 1000
+    Instance.new("UICorner", center).CornerRadius = UDim.new(0, 14)
+    
+    -- Gloss effect
+    local gloss = Instance.new("Frame")
+    gloss.Parent = center
+    gloss.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    gloss.BackgroundTransparency = 0.97
+    gloss.BorderSizePixel = 0
+    gloss.Size = UDim2.new(1, 0, 0.3, 0)
+    gloss.ZIndex = 1001
+    Instance.new("UICorner", gloss).CornerRadius = UDim.new(0, 14)
+    
+    -- Title
+    local title = Instance.new("TextLabel")
+    title.Parent = center
+    title.BackgroundTransparency = 1
+    title.Position = UDim2.new(0, 0, 0, 20)
+    title.Size = UDim2.new(1, 0, 0, 28)
+    title.Font = Enum.Font.GothamBold
+    title.Text = "🌟 NEBULA HUB"
+    title.TextColor3 = CurrentTheme.AccentGlow
+    title.TextSize = 22
+    title.ZIndex = 1001
+    
+    -- Subtitle
+    local subtitle = Instance.new("TextLabel")
+    subtitle.Parent = center
+    subtitle.BackgroundTransparency = 1
+    subtitle.Position = UDim2.new(0, 0, 0, 50)
+    subtitle.Size = UDim2.new(1, 0, 0, 16)
+    subtitle.Font = Enum.Font.Gotham
+    subtitle.Text = "Connecting..."
+    subtitle.TextColor3 = CurrentTheme.TextDim
+    subtitle.TextSize = 10
+    subtitle.ZIndex = 1001
+    
+    -- Status label
+    local statusLabel = Instance.new("TextLabel")
+    statusLabel.Parent = center
+    statusLabel.BackgroundTransparency = 1
+    statusLabel.Position = UDim2.new(0, 0, 0, 85)
+    statusLabel.Size = UDim2.new(1, 0, 0, 20)
+    statusLabel.Font = Enum.Font.GothamBold
+    statusLabel.Text = "🔍 Scanning Game ID..."
+    statusLabel.TextColor3 = CurrentTheme.Text
+    statusLabel.TextSize = 12
+    statusLabel.ZIndex = 1001
+    
+    -- Game info label
+    local gameInfoLabel = Instance.new("TextLabel")
+    gameInfoLabel.Parent = center
+    gameInfoLabel.BackgroundTransparency = 1
+    gameInfoLabel.Position = UDim2.new(0, 0, 0, 108)
+    gameInfoLabel.Size = UDim2.new(1, 0, 0, 14)
+    gameInfoLabel.Font = Enum.Font.Gotham
+    gameInfoLabel.Text = ""
+    gameInfoLabel.TextColor3 = CurrentTheme.TextDim
+    gameInfoLabel.TextSize = 9
+    gameInfoLabel.ZIndex = 1001
+    
+    -- =====================================================================
+    -- ANIMATED PROGRESS BAR (THE COOL PART)
+    -- =====================================================================
+    
+    -- Glow effect behind bar
+    local barGlow = Instance.new("Frame")
+    barGlow.Parent = center
+    barGlow.BackgroundColor3 = CurrentTheme.Accent
+    barGlow.BackgroundTransparency = 0.85
+    barGlow.BorderSizePixel = 0
+    barGlow.Position = UDim2.new(0.08, 0, 0, 145)
+    barGlow.Size = UDim2.new(0.84, 0, 0, 12)
+    barGlow.ZIndex = 1001
+    Instance.new("UICorner", barGlow).CornerRadius = UDim.new(0, 6)
+    
+    -- Progress bar background
+    local barBg = Instance.new("Frame")
+    barBg.Parent = center
+    barBg.BackgroundColor3 = CurrentTheme.Background2
+    barBg.BorderColor3 = CurrentTheme.Border
+    barBg.BorderSizePixel = 1
+    barBg.Position = UDim2.new(0.1, 0, 0, 147)
+    barBg.Size = UDim2.new(0.8, 0, 0, 8)
+    barBg.ZIndex = 1002
+    Instance.new("UICorner", barBg).CornerRadius = UDim.new(0, 4)
+    
+    -- Progress bar fill
+    local barFill = Instance.new("Frame")
+    barFill.Parent = barBg
+    barFill.BackgroundColor3 = CurrentTheme.AccentGlow
+    barFill.BorderSizePixel = 0
+    barFill.Size = UDim2.new(0, 0, 1, 0)
+    barFill.ZIndex = 1003
+    Instance.new("UICorner", barFill).CornerRadius = UDim.new(0, 4)
+    
+    -- Moving shine on the bar
+    local barShine = Instance.new("Frame")
+    barShine.Parent = barFill
+    barShine.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    barShine.BackgroundTransparency = 0.7
+    barShine.BorderSizePixel = 0
+    barShine.Size = UDim2.new(0, 30, 1, 0)
+    barShine.Position = UDim2.new(0, -40, 0, 0)
+    barShine.ZIndex = 1004
+    Instance.new("UICorner", barShine).CornerRadius = UDim.new(0, 4)
+    
+    -- Animate shine
+    task.spawn(function()
+        while barShine and barShine.Parent do
+            barShine.Position = UDim2.new(0, -40, 0, 0)
+            TweenService:Create(barShine, TweenInfo.new(1.5, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut), {
+                Position = UDim2.new(1, 10, 0, 0)
+            }):Play()
+            task.wait(1.5)
+        end
+    end)
+    
+    -- =====================================================================
+    -- PERCENTAGE
+    -- =====================================================================
+    local pctLabel = Instance.new("TextLabel")
+    pctLabel.Parent = center
+    pctLabel.BackgroundTransparency = 1
+    pctLabel.Position = UDim2.new(0, 0, 0, 165)
+    pctLabel.Size = UDim2.new(1, 0, 0, 20)
+    pctLabel.Font = Enum.Font.GothamBold
+    pctLabel.Text = "0%"
+    pctLabel.TextColor3 = CurrentTheme.AccentGlow
+    pctLabel.TextSize = 14
+    pctLabel.ZIndex = 1001
+    
+    -- =====================================================================
+    -- VERSION
+    -- =====================================================================
+    local versionLabel = Instance.new("TextLabel")
+    versionLabel.Parent = center
+    versionLabel.BackgroundTransparency = 1
+    versionLabel.Position = UDim2.new(0, 0, 0, 200)
+    versionLabel.Size = UDim2.new(1, 0, 0, 14)
+    versionLabel.Font = Enum.Font.Gotham
+    versionLabel.Text = "Hub v3.0 | Nebula"
+    versionLabel.TextColor3 = Color3.fromRGB(100, 90, 130)
+    versionLabel.TextSize = 9
+    versionLabel.ZIndex = 1001
+    
+    -- Animate in
+    TweenService:Create(bg, TweenInfo.new(0.3), {BackgroundTransparency = 0.5}):Play()
+    TweenService:Create(center, TweenInfo.new(0.3, Enum.EasingStyle.Back), {BackgroundTransparency = 0}):Play()
+    
+    return {
+        SG = SG,
+        StatusLabel = statusLabel,
+        GameInfoLabel = gameInfoLabel,
+        BarFill = barFill,
+        PctLabel = pctLabel,
+        Center = center,
+        Bg = bg,
+        Subtitle = subtitle,
+    }
+end
+
+-- =====================================================================
+-- POPUP: ERROR
+-- =====================================================================
+local function ShowErrorPopup(parent, title, message, callback)
+    local overlay = Instance.new("Frame")
+    overlay.Parent = parent
+    overlay.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+    overlay.BackgroundTransparency = 1
+    overlay.Size = UDim2.new(1, 0, 1, 0)
+    overlay.ZIndex = 2000
+    
+    local popup = Instance.new("Frame")
+    popup.Parent = overlay
+    popup.BackgroundColor3 = CurrentTheme.Background
+    popup.BorderColor3 = CurrentTheme.Danger
+    popup.BorderSizePixel = 1
+    popup.Position = UDim2.new(0.5, -150, 0.5, -60)
+    popup.Size = UDim2.new(0, 0, 0, 0)
+    popup.AnchorPoint = Vector2.new(0.5, 0.5)
+    popup.ClipsDescendants = true
+    popup.ZIndex = 2001
+    Instance.new("UICorner", popup).CornerRadius = UDim.new(0, 12)
+    
+    local icon = Instance.new("TextLabel")
+    icon.Parent = popup
+    icon.BackgroundTransparency = 1
+    icon.Position = UDim2.new(0, 15, 0, 12)
+    icon.Size = UDim2.new(0, 28, 0, 28)
+    icon.Font = Enum.Font.GothamBold
+    icon.Text = "❌"
+    icon.TextColor3 = CurrentTheme.Danger
+    icon.TextSize = 22
+    icon.ZIndex = 2002
+    
+    local titleLabel = Instance.new("TextLabel")
+    titleLabel.Parent = popup
+    titleLabel.BackgroundTransparency = 1
+    titleLabel.Position = UDim2.new(0, 48, 0, 14)
+    titleLabel.Size = UDim2.new(1, -65, 0, 22)
+    titleLabel.Font = Enum.Font.GothamBold
+    titleLabel.Text = title
+    titleLabel.TextColor3 = CurrentTheme.Danger
+    titleLabel.TextSize = 14
+    titleLabel.TextXAlignment = Enum.TextXAlignment.Left
+    titleLabel.ZIndex = 2002
+    
+    local msgLabel = Instance.new("TextLabel")
+    msgLabel.Parent = popup
+    msgLabel.BackgroundTransparency = 1
+    msgLabel.Position = UDim2.new(0, 15, 0, 42)
+    msgLabel.Size = UDim2.new(1, -30, 0, 30)
+    msgLabel.Font = Enum.Font.Gotham
+    msgLabel.Text = message
+    msgLabel.TextColor3 = CurrentTheme.Text
+    msgLabel.TextSize = 11
+    msgLabel.TextWrapped = true
+    msgLabel.TextXAlignment = Enum.TextXAlignment.Left
+    msgLabel.ZIndex = 2002
+    
+    local btn = Instance.new("TextButton")
+    btn.Parent = popup
+    btn.BackgroundColor3 = CurrentTheme.Accent
+    btn.BorderSizePixel = 0
+    btn.Position = UDim2.new(0.25, 0, 0, 78)
+    btn.Size = UDim2.new(0.5, 0, 0, 30)
+    btn.Font = Enum.Font.GothamBold
+    btn.Text = "OK"
+    btn.TextColor3 = Color3.fromRGB(255, 255, 255)
+    btn.TextSize = 12
+    btn.AutoButtonColor = false
+    btn.ZIndex = 2002
+    Instance.new("UICorner", btn).CornerRadius = UDim.new(0, 8)
+    
+    TweenService:Create(overlay, TweenInfo.new(0.2), {BackgroundTransparency = 0.4}):Play()
+    TweenService:Create(popup, TweenInfo.new(0.3, Enum.EasingStyle.Back), {Size = UDim2.new(0, 300, 0, 118)}):Play()
+    
+    btn.MouseButton1Click:Connect(function()
+        TweenService:Create(overlay, TweenInfo.new(0.2), {BackgroundTransparency = 1}):Play()
+        TweenService:Create(popup, TweenInfo.new(0.2), {Size = UDim2.new(0, 0, 0, 0)}):Play()
+        task.wait(0.2)
+        overlay:Destroy()
+        if callback then callback() end
+    end)
+end
+
+-- =====================================================================
+-- POPUP: CHOICE (YES / NEVERMIND)
+-- =====================================================================
+local function ShowChoicePopup(parent, gameName, yesCallback, noCallback)
+    local overlay = Instance.new("Frame")
+    overlay.Parent = parent
+    overlay.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+    overlay.BackgroundTransparency = 1
+    overlay.Size = UDim2.new(1, 0, 1, 0)
+    overlay.ZIndex = 2000
+    
+    local popup = Instance.new("Frame")
+    popup.Parent = overlay
+    popup.BackgroundColor3 = CurrentTheme.Background
+    popup.BorderColor3 = CurrentTheme.Warning
+    popup.BorderSizePixel = 1
+    popup.Position = UDim2.new(0.5, -160, 0.5, -75)
+    popup.Size = UDim2.new(0, 0, 0, 0)
+    popup.AnchorPoint = Vector2.new(0.5, 0.5)
+    popup.ClipsDescendants = true
+    popup.ZIndex = 2001
+    Instance.new("UICorner", popup).CornerRadius = UDim.new(0, 12)
+    
+    local gloss = Instance.new("Frame")
+    gloss.Parent = popup
+    gloss.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    gloss.BackgroundTransparency = 0.97
+    gloss.BorderSizePixel = 0
+    gloss.Size = UDim2.new(1, 0, 0.3, 0)
+    gloss.ZIndex = 2002
+    Instance.new("UICorner", gloss).CornerRadius = UDim.new(0, 12)
+    
+    local icon = Instance.new("TextLabel")
+    icon.Parent = popup
+    icon.BackgroundTransparency = 1
+    icon.Position = UDim2.new(0, 15, 0, 12)
+    icon.Size = UDim2.new(0, 28, 0, 28)
+    icon.Font = Enum.Font.GothamBold
+    icon.Text = "🎮"
+    icon.TextColor3 = CurrentTheme.Warning
+    icon.TextSize = 22
+    icon.ZIndex = 2002
+    
+    local titleLabel = Instance.new("TextLabel")
+    titleLabel.Parent = popup
+    titleLabel.BackgroundTransparency = 1
+    titleLabel.Position = UDim2.new(0, 48, 0, 14)
+    titleLabel.Size = UDim2.new(1, -65, 0, 22)
+    titleLabel.Font = Enum.Font.GothamBold
+    titleLabel.Text = "Game Not Supported"
+    titleLabel.TextColor3 = CurrentTheme.Warning
+    titleLabel.TextSize = 14
+    titleLabel.TextXAlignment = Enum.TextXAlignment.Left
+    titleLabel.ZIndex = 2002
+    
+    local msgLabel = Instance.new("TextLabel")
+    msgLabel.Parent = popup
+    msgLabel.BackgroundTransparency = 1
+    msgLabel.Position = UDim2.new(0, 15, 0, 42)
+    msgLabel.Size = UDim2.new(1, -30, 0, 55)
+    msgLabel.Font = Enum.Font.Gotham
+    msgLabel.Text = "No specific script was found for:\n🎮 " .. gameName .. "\n\nWould you like to load the Universal Admin instead?"
+    msgLabel.TextColor3 = CurrentTheme.Text
+    msgLabel.TextSize = 11
+    msgLabel.TextWrapped = true
+    msgLabel.TextXAlignment = Enum.TextXAlignment.Left
+    msgLabel.ZIndex = 2002
+    
+    local yesBtn = Instance.new("TextButton")
+    yesBtn.Parent = popup
+    yesBtn.BackgroundColor3 = CurrentTheme.Success
+    yesBtn.BorderSizePixel = 0
+    yesBtn.Position = UDim2.new(0.08, 0, 0, 92)
+    yesBtn.Size = UDim2.new(0.38, 0, 0, 30)
+    yesBtn.Font = Enum.Font.GothamBold
+    yesBtn.Text = "✅ Yes, load it"
+    yesBtn.TextColor3 = Color3.fromRGB(0, 0, 0)
+    yesBtn.TextSize = 12
+    yesBtn.AutoButtonColor = false
+    yesBtn.ZIndex = 2002
+    Instance.new("UICorner", yesBtn).CornerRadius = UDim.new(0, 8)
+    
+    local noBtn = Instance.new("TextButton")
+    noBtn.Parent = popup
+    noBtn.BackgroundColor3 = Color3.fromRGB(60, 60, 70)
+    noBtn.BorderSizePixel = 0
+    noBtn.Position = UDim2.new(0.54, 0, 0, 92)
+    noBtn.Size = UDim2.new(0.38, 0, 0, 30)
+    noBtn.Font = Enum.Font.GothamBold
+    noBtn.Text = "❌ Nevermind"
+    noBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+    noBtn.TextSize = 12
+    noBtn.AutoButtonColor = false
+    noBtn.ZIndex = 2002
+    Instance.new("UICorner", noBtn).CornerRadius = UDim.new(0, 8)
+    
+    TweenService:Create(overlay, TweenInfo.new(0.2), {BackgroundTransparency = 0.4}):Play()
+    TweenService:Create(popup, TweenInfo.new(0.3, Enum.EasingStyle.Back), {Size = UDim2.new(0, 320, 0, 132)}):Play()
+    
+    local function close()
+        TweenService:Create(overlay, TweenInfo.new(0.2), {BackgroundTransparency = 1}):Play()
+        TweenService:Create(popup, TweenInfo.new(0.2), {Size = UDim2.new(0, 0, 0, 0)}):Play()
+        task.wait(0.2)
+        overlay:Destroy()
+    end
+    
+    yesBtn.MouseButton1Click:Connect(function()
+        close()
+        if yesCallback then yesCallback() end
+    end)
+    
+    noBtn.MouseButton1Click:Connect(function()
+        close()
+        if noCallback then noCallback() end
+    end)
+end
+
+-- =====================================================================
+-- ANIMATE PROGRESS
+-- =====================================================================
+local function AnimateProgress(UI, target, duration, text)
+    local startWidth = UI.BarFill.Size.X.Scale
+    local startTime = tick()
+    
+    task.spawn(function()
+        while tick() - startTime < duration do
+            local alpha = math.min((tick() - startTime) / duration, 1)
+            local eased = 1 - (1 - alpha) * (1 - alpha) -- ease out
+            local current = startWidth + (target - startWidth) * eased
+            UI.BarFill.Size = UDim2.new(current, 0, 1, 0)
+            UI.PctLabel.Text = math.floor(current * 100) .. "%"
+            RunService.RenderStepped:Wait()
+        end
+        UI.BarFill.Size = UDim2.new(target, 0, 1, 0)
+        UI.PctLabel.Text = math.floor(target * 100) .. "%"
+    end)
+    
+    if text then
+        UI.StatusLabel.Text = text
+    end
+end
+
+-- =====================================================================
+-- MAIN HUB
+-- =====================================================================
+local function StartHub()
+    local UI = ShowLoadingUI()
+    
+    task.wait(0.5)
+    UI.Subtitle.Text = "Nebula Hub v3.0"
+    AnimateProgress(UI, 0.2, 0.4, "🔍 Scanning for game...")
+    
+    task.wait(0.5)
+    local gameId = game.PlaceId
+    local gameName = "Unknown Game"
+    pcall(function()
+        gameName = game:GetService("MarketplaceService"):GetProductInfo(gameId).Name
+    end)
+    
+    UI.GameInfoLabel.Text = "🎮 " .. gameName .. "  |  🆔 " .. gameId
+    UI.Subtitle.Text = gameName
+    AnimateProgress(UI, 0.5, 0.4, "📋 Checking database...")
+    
+    local gameScript = ScriptDatabase[gameId]
+    
+    task.wait(0.5)
+    
+    if gameScript then
+        -- Script found!
+        UI.StatusLabel.TextColor3 = CurrentTheme.Success
+        AnimateProgress(UI, 0.75, 0.4, "✅ Found: " .. gameScript.Name)
+        
+        task.wait(0.3)
+        AnimateProgress(UI, 0.9, 0.3, "📥 " .. gameScript.Description)
+        
+        local success, result = pcall(function()
+            return loadstring(game:HttpGet(gameScript.Script))()
+        end)
+        
+        task.wait(0.3)
+        
+        if success then
+            AnimateProgress(UI, 1.0, 0.3, "✅ Script loaded successfully!")
+            UI.StatusLabel.TextColor3 = CurrentTheme.Success
+            
+            task.wait(0.8)
+            TweenService:Create(UI.Bg, TweenInfo.new(0.4), {BackgroundTransparency = 1}):Play()
+            TweenService:Create(UI.Center, TweenInfo.new(0.3), {BackgroundTransparency = 1}):Play()
+            task.wait(0.4)
+            UI.SG:Destroy()
+        else
+            ShowErrorPopup(UI.SG, "Script Error", "Failed to load the script.\n\nError: " .. tostring(result), function()
+                TweenService:Create(UI.Bg, TweenInfo.new(0.3), {BackgroundTransparency = 1}):Play()
+                TweenService:Create(UI.Center, TweenInfo.new(0.3), {BackgroundTransparency = 1}):Play()
+                task.wait(0.3)
+                UI.SG:Destroy()
+            end)
+        end
+    else
+        -- Game not supported
+        UI.StatusLabel.TextColor3 = CurrentTheme.Warning
+        AnimateProgress(UI, 0.7, 0.4, "❌ No specific script found")
+        
+        task.wait(0.5)
+        
+        ShowChoicePopup(UI.SG, gameName,
+            function()
+                -- Yes - Load Universal
+                AnimateProgress(UI, 0.9, 0.4, "📥 Loading Universal Admin...")
+                
+                local universal = ScriptDatabase["UNIVERSAL"]
+                if universal then
+                    local success, result = pcall(function()
+                        return loadstring(game:HttpGet(universal.Script))()
+                    end)
+                    
+                    if success then
+                        AnimateProgress(UI, 1.0, 0.3, "✅ Universal Admin loaded!")
+                        UI.StatusLabel.TextColor3 = CurrentTheme.Success
+                        
+                        task.wait(0.8)
+                        TweenService:Create(UI.Bg, TweenInfo.new(0.4), {BackgroundTransparency = 1}):Play()
+                        TweenService:Create(UI.Center, TweenInfo.new(0.3), {BackgroundTransparency = 1}):Play()
+                        task.wait(0.4)
+                        UI.SG:Destroy()
+                    else
+                        ShowErrorPopup(UI.SG, "Error", "Failed to load Universal Admin.\n\nError: " .. tostring(result), function()
+                            UI.SG:Destroy()
+                        end)
+                    end
+                end
+            end,
+            function()
+                -- Nevermind
+                TweenService:Create(UI.Bg, TweenInfo.new(0.3), {BackgroundTransparency = 1}):Play()
+                TweenService:Create(UI.Center, TweenInfo.new(0.3), {BackgroundTransparency = 1}):Play()
+                task.wait(0.3)
+                UI.SG:Destroy()
+            end
+        )
+    end
+end
+
+-- Start!
+StartHub()
