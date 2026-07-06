@@ -27,7 +27,12 @@ local ScriptDatabase = {
     },
     ["17664219670"] = {
         Name = "Airstrikes NPCs",
-        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/admin.lua",
+        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/GamepassFree.lua",
+        Description = "Fly, Noclip, ESP, Godmode"
+    },
+    ["189707"] = {
+        Name = "Natural Disaster Survival",
+        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/GamepassFree.lua",
         Description = "Fly, Noclip, ESP, Godmode"
     },
 }
