@@ -27,7 +27,7 @@ local ScriptDatabase = {
     },
     ["UNIVERSAL"] = {
         Name = "Universal Admin",
-        Script = "https://github.com/lzhenweiDev/rblx-scripts/raw/refs/heads/main/Nebula-Admin.lua",
+        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/admin.lua",
         Description = "Fly, Noclip, ESP, Godmode"
     },
 }
