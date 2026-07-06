@@ -15,18 +15,18 @@ local _LocalPlayer = Players.LocalPlayer
 -- SCRIPT DATABASE
 -- =====================================================================
 local ScriptDatabase = {
-    [2753915549] = {
-        Name = "Blox Fruits",
-        Script = "https://github.com/lzhenweiDev/rblx-scripts/raw/refs/heads/main/NightHubBloxfruits.luau",
-        Description = "Find Fruit, Serverhop, Webhook"
-    },
-    [4483381587] = {
+    [142823291] = {
         Name = "Murder Mystery 2",
-        Script = "https://github.com/lzhenweiDev/Scripts/raw/refs/heads/main/MurderMystery2.lua",
+        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/MM2.lua",
         Description = "ESP Roles, Aimbot, noClip"
     },
     ["UNIVERSAL"] = {
         Name = "Universal Admin",
+        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/admin.lua",
+        Description = "Fly, Noclip, ESP, Godmode"
+    },
+    ["17664219670"] = {
+        Name = "Airstrikes NPCs",
         Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/admin.lua",
         Description = "Fly, Noclip, ESP, Godmode"
     },
