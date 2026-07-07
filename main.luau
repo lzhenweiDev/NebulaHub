@@ -32,20 +32,17 @@ local ScriptDatabase = {
     },
     ["189707"] = {
         Name = "Natural Disaster Survival",
-        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/Natural-Disaster-Survival.lua
-",
+        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/Natural-Disaster-Survival.lua",
         Description = "Fly, Noclip, ESP, Godmode"
     },
     ["174238106"] = {
         Name = "RED VS BLUE PLANE WARS",
-        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/RedVSBlue-PlaneWars.lua
-",
+        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/RedVSBlue-PlaneWars.lua",
         Description = "Auto farm, Killall, ESP, Serverhop"
     },
     ["4325400580"] = {
         Name = "Army Tycoon",
-        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/Army-Tycoon.lua
-",
+        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/Army-Tycoon.lua",
         Description = "Kill All Units, Get All Buildings, Lag Players, Nuke to Mouse (Q), Give All Players Buildings"
     }
 }
