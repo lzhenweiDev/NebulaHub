@@ -47,7 +47,7 @@ local ScriptDatabase = {
         Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/Army-Tycoon.lua
 ",
         Description = "Kill All Units, Get All Buildings, Lag Players, Nuke to Mouse (Q), Give All Players Buildings"
-    },
+    }
 }
 
 -- =====================================================================
