@@ -42,6 +42,12 @@ local ScriptDatabase = {
 ",
         Description = "Auto farm, Killall, ESP, Serverhop"
     },
+    ["4325400580"] = {
+        Name = "Army Tycoon",
+        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/Army-Tycoon.lua
+",
+        Description = "Kill All Units, Get All Buildings, Lag Players, Nuke to Mouse (Q), Give All Players Buildings"
+    },
 }
 
 -- =====================================================================
