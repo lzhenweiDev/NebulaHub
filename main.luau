@@ -36,6 +36,12 @@ local ScriptDatabase = {
 ",
         Description = "Fly, Noclip, ESP, Godmode"
     },
+    ["174238106"] = {
+        Name = "RED VS BLUE PLANE WARS",
+        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/Natural-Disaster-Survival.lua
+",
+        Description = "Auto farm, Killall, ESP, Serverhop"
+    },
 }
 
 -- =====================================================================
