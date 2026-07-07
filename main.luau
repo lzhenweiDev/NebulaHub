@@ -38,7 +38,7 @@ local ScriptDatabase = {
     },
     ["174238106"] = {
         Name = "RED VS BLUE PLANE WARS",
-        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/Natural-Disaster-Survival.lua
+        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/RedVSBlue-PlaneWars.lua
 ",
         Description = "Auto farm, Killall, ESP, Serverhop"
     },
