@@ -18,21 +18,22 @@ local ScriptDatabase = {
     [142823291] = {
         Name = "Murder Mystery 2",
         Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/MM2.lua",
-        Description = "ESP Roles, Aimbot, noClip"
+        Description = "ESP Roles, Aimbot, Noclip"
     },
     ["UNIVERSAL"] = {
         Name = "Universal Admin",
         Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/admin.lua",
-        Description = "Fly, Noclip, ESP, Godmode"
+        Description = "Fly, Noclip, ESP, Godmode, Touchfling"
     },
     ["17664219670"] = {
         Name = "Airstrikes NPCs",
         Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/GamepassFree.lua",
-        Description = "Fly, Noclip, ESP, Godmode"
+        Description = "Gamepasses for free, infinite jump"
     },
     ["189707"] = {
         Name = "Natural Disaster Survival",
-        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/GamepassFree.lua",
+        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/Natural-Disaster-Survival.lua
+",
         Description = "Fly, Noclip, ESP, Godmode"
     },
 }
