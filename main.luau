@@ -44,6 +44,11 @@ local ScriptDatabase = {
         Name = "Army Tycoon",
         Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/Army-Tycoon.lua",
         Description = "Kill All Units, Get All Buildings, Lag Players, Nuke to Mouse (Q), Give All Players Buildings"
+    },
+    ["4325400580"] = {
+        Name = "FIXED! Merge a Nuke Script",
+        Script = "loadstring(game:HttpGet("https://github.com/gumanba/Scripts/raw/refs/heads/main/MergeaNuke"))()",
+        Description = "Auto Merge, Auto Buy Upgrades, Anti Cheat Bypass"
     }
 }
 
