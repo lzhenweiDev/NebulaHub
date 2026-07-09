@@ -47,7 +47,7 @@ local ScriptDatabase = {
     },
     ["128784467030899"] = {
         Name = "FIXED! Merge a Nuke Script",
-        Script = "loadstring(game:HttpGet("https://github.com/gumanba/Scripts/raw/refs/heads/main/MergeaNuke"))()",
+        Script = "https://github.com/gumanba/Scripts/raw/refs/heads/main/MergeaNuke"
         Description = "Auto Merge, Auto Buy Upgrades, Anti Cheat Bypass"
     }
 }
