@@ -14,7 +14,7 @@ local _LocalPlayer = Players.LocalPlayer
 -- =====================================================================
 -- SCRIPT DATABASE
 -- =====================================================================
-loadstring(HttpGet("https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/GameList.lua"))()
+local ScriptDatabase = loadstring(game:HttpGet("https://lzhenweidev.github.io/NebulaHub/GameList.lua"))()
 -- =====================================================================
 -- NEBULA UI LIBRARY (MINI VERSION)
 -- =====================================================================
