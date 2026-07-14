@@ -49,6 +49,11 @@ local ScriptDatabase = {
         Name = "FIXED! Merge a Nuke Script",
         Script = "https://github.com/gumanba/Scripts/raw/refs/heads/main/MergeaNuke",
         Description = "Auto Merge, Auto Buy Upgrades, Anti Cheat Bypass"
+    },
+    ["654732683"] = {
+        Name = "Car Crushers 2",
+        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/CarCrushers2.lua",
+        Description = "Car Speed Hack, Auto Farm Money, Troll Players"
     }
 }
 
