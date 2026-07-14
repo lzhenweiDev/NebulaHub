@@ -514,7 +514,7 @@ local function StartHub()
         
         task.wait(0.5)
         
-        ShowChoicePopup(UI.SG, gameName,
+        howChoicePopup(UI.SG, gameName,
             function()
                 -- Yes - Load Universal
                 AnimateProgress(UI, 0.9, 0.4, "📥 Loading Universal Admin...")
