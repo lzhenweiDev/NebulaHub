@@ -1,4 +1,4 @@
-local ScriptDatabase = {
+return {
     [142823291] = {
         Name = "Murder Mystery 2",
         Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/MM2.lua",
