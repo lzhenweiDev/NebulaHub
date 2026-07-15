@@ -44,7 +44,7 @@ return {
         Script = "https://github.com/newredzv3/Scripts/raw/refs/heads/main/main.luau",
         Description = "Auto Farm, Aimbot, ESP, Auto Quest"
     },
-    [2753915549] = {
+    [95082159892680] = {
         Name = "1 Speed Keyboard Escape Candy Chocolate",
         Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/+1-KeyboardEscape.lua",
         Description = "Auto Farm, Godmode, Get Infinite Trail for free"
