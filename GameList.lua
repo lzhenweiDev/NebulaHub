@@ -43,5 +43,10 @@ return {
         Name = "Blox Fruits",
         Script = "https://github.com/newredzv3/Scripts/raw/refs/heads/main/main.luau",
         Description = "Auto Farm, Aimbot, ESP, Auto Quest"
+    },
+    [2753915549] = {
+        Name = "1 Speed Keyboard Escape Candy Chocolate",
+        Script = "https://github.com/newredzv3/Scripts/raw/refs/heads/main/main.luau",
+        Description = "Auto Farm, Godmode, Get Infinite Trail for free"
     }
 }
