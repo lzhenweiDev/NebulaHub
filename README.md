@@ -7,7 +7,7 @@ NebulaHub is a Roblox script hub loader that detects the current game and loads 
 Run this loader in your Roblox executor:
 
 ```lua
-loadstring(game:HttpGet("https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/main.luau"))()
+loadstring(game:HttpGet("https://lzhenweidev.github.io/NebulaHub/main.luau"))()
 ```
 
 ## Repository Structure
