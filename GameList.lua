@@ -39,7 +39,7 @@ return {
         Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/CarCrushers2.lua",
         Description = "Car Speed Hack, Auto Farm Money, Troll Players"
     },
-    [2753915549] = {
+    [994732206] = {
         Name = "Blox Fruits",
         Script = "https://github.com/newredzv3/Scripts/raw/refs/heads/main/main.luau",
         Description = "Auto Farm, Aimbot, ESP, Auto Quest"
@@ -50,3 +50,4 @@ return {
         Description = "Auto Farm, Godmode, Get Infinite Trail for free"
     }
 }
+
