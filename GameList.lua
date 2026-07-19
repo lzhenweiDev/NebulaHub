@@ -41,8 +41,8 @@ return {
     },
     [994732206] = {
         Name = "Blox Fruits",
-        Script = "https://github.com/newredzv3/Scripts/raw/refs/heads/main/main.luau",
-        Description = "Auto Farm, Aimbot, ESP, Auto Quest"
+        Script = "https://github.com/lzhenweiDev/NebulaHub/raw/refs/heads/main/Scripts/ChestFarm-FruitFarm.luau",
+        Description = "Chest Farm, Fruit Farm"
     },
     [95082159892680] = {
         Name = "1 Speed Keyboard Escape Candy Chocolate",
